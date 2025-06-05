@@ -1,0 +1,970 @@
+orderid,orderdate,unitcost,price,orderqty,costofsales,productname,brandname,state,revenue,Profit
+3370,3/30/2014,8.860613872,12.99,20,177.2122774,"Contoso 512MB MP3 Player E51 Blue",Contoso,Ondo,259.80,82.59
+3036,3/24/2013,2.794338459,21.57,10,27.94338459,"Contoso 2G MP3 Player E200 Red",Contoso,Benue,215.70,187.76
+2228,12/18/2011,8.399853846,21.57,4,33.59941538,"Contoso 2G MP3 Player E200 Black",Contoso,Lagos,86.28,52.68
+1988,6/19/2014,16.67301675,21.57,24,400.1524019,"Contoso 2G MP3 Player E200 Blue",Contoso,Katsina,517.68,117.53
+2629,3/15/2013,11.0597826,21.57,24,265.4347825,"Contoso 2G MP3 Player E200 Blue",Contoso,Ekiti,517.68,252.25
+3421,04-10-12,12.73667175,59.99,5,63.68335875,"Contoso 4G MP3 Player E400 Black",Contoso,Delta,299.95,236.27
+2584,07-07-12,13.59268115,59.99,6,81.55608687,"Contoso 4G MP3 Player E400 Green",Contoso,Benue,359.94,278.38
+2358,3/30/2012,59.51462961,59.99,5,297.5731481,"Contoso 4G MP3 Player E400 Orange",Contoso,Ekiti,299.95,2.38
+2195,12/13/2013,59.66167661,77.68,18,1073.910179,"Contoso 4GB Flash MP3 Player E401 Blue",Contoso,Abia,1398.24,324.33
+2170,3/22/2014,173.4906838,199.9,10,1734.906838,"Contoso 16GB Mp5 Player M1600 Blue",Contoso,Gombe,1999.00,264.09
+2169,5/24/2013,18.90985704,255,10,189.0985704,"Contoso 32GB Video MP3 Player M3200 Red",Contoso,Borno,2550.00,2360.90
+3364,5/31/2013,25.92101966,255,12,311.0522359,"Contoso 32GB Video MP3 Player M3200 Orange",Contoso,Enugu,3060.00,2748.95
+2591,03-02-14,71.00988057,95.95,9,639.0889252,"Contoso 4GB Portable MP3 Player M450 Black",Contoso,Imo,863.55,224.46
+2541,08-10-12,195.9404482,299.23,12,2351.285379,"Contoso 8GB Clock & Radio MP3 Player X850 Black",Contoso,Kebbi,3590.76,1239.47
+3370,3/30/2014,8.860613872,12.99,20,177.2122774,"Contoso 8GB Clock & Radio MP3 Player X850 Blue",Contoso,Ondo,259.80,82.59
+1957,07-12-14,32.09639589,199.95,12,385.1567507,"WWI 2GB Pulse Smart pen M100 Blue","Wide World Importers",FCT,2399.40,2014.24
+2289,08-04-12,19.31979453,199.95,10,193.1979453,"WWI 2GB Pulse Smart pen M100 Silver","Wide World Importers",Jigawa,1999.50,1806.30
+2811,8/27/2012,182.9029712,199.95,10,1829.029712,"WWI 2GB Pulse Smart pen M100 Silver","Wide World Importers",Lagos,1999.50,170.47
+3423,10-11-12,80.24156266,199.95,26,2086.280629,"WWI 2GB Pulse Smart pen M100 Silver","Wide World Importers",Bauchi,5198.70,3112.42
+2842,11/20/2013,84.82654007,156,8,678.6123206,"WWI 1GB Digital Voice Recorder Pen E100 Red","Wide World Importers",Rivers,1248.00,569.39
+2405,03-08-14,75.32016774,181,20,1506.403355,"WWI 2GB Spy Video Recorder Pen M300 Black","Wide World Importers",Katsina,3620.00,2113.60
+2186,12/17/2011,13.75781621,25.69,4,55.03126484,"NT Bluetooth Stereo Headphones E52 Blue","Northwind Traders",Sokoto,102.76,47.73
+2836,06-08-12,6.777598507,25.69,6,40.66559104,"NT Bluetooth Stereo Headphones E52 Blue","Northwind Traders",Yobe,154.14,113.47
+1919,06-11-12,11.94504129,25.69,6,71.67024774,"NT Bluetooth Stereo Headphones E52 Yellow","Northwind Traders",Benue,154.14,82.47
+3389,2/18/2012,5.53059383,25.69,4,22.12237532,"NT Bluetooth Stereo Headphones E52 Yellow","Northwind Traders",Taraba,102.76,80.64
+2777,8/21/2014,9.057795119,25.69,20,181.1559024,"NT Bluetooth Stereo Headphones E52 Pink","Northwind Traders",Nasarawa,513.80,332.64
+2676,3/18/2012,33.33412639,47.95,5,166.670632,"NT Wireless Bluetooth Stereo Headphones E102 Silver","Northwind Traders",Anambra,239.75,73.08
+3317,03-11-14,12.69829779,47.95,18,228.5693602,"NT Wireless Bluetooth Stereo Headphones E102 Silver","Northwind Traders",Bayelsa,863.10,634.53
+1822,3/30/2014,26.38865697,37.95,20,527.7731394,"NT Bluetooth Active Headphones E202 Black","Northwind Traders",Abia,759.00,231.23
+1865,4/21/2012,22.30946344,37.95,6,133.8567806,"NT Bluetooth Active Headphones E202 White","Northwind Traders",Benue,227.70,93.84
+3107,07-04-14,10.20294764,37.95,48,489.7414865,"NT Bluetooth Active Headphones E202 White","Northwind Traders",Kaduna,1821.60,1331.86
+2993,12/16/2012,27.07879681,40.55,13,352.0243585,"NT Wireless Bluetooth Stereo Headphones E302 Yellow","Northwind Traders",Taraba,527.15,175.13
+2653,10/17/2014,57.99177341,99.99,13,753.8930544,"NT Wireless Bluetooth Stereo Headphones M402 Black","Northwind Traders",Kano,1299.87,545.98
+3140,03-01-12,52.74487157,67.4,4,210.9794863,"WWI Stereo Bluetooth Headphones E1000 Blue","Wide World Importers",Ekiti,269.60,58.62
+3247,06-01-13,17.37810208,67.4,10,173.7810208,"WWI Stereo Bluetooth Headphones E1000 Blue","Wide World Importers",Katsina,674.00,500.22
+2846,3/15/2013,10.13874705,67.4,10,101.3874705,"WWI Stereo Bluetooth Headphones E1000 Black","Wide World Importers",Ogun,674.00,572.61
+2867,05-02-14,13.69210435,120,10,136.9210435,"WWI Wireless Bluetooth Stereo Headphones M170 Pink","Wide World Importers",Oyo,1200.00,1063.08
+1943,11-12-13,29.08767282,249.99,8,232.7013826,"WWI Wireless Transmitter and Bluetooth Headphones X250 Blue","Wide World Importers",Nasarawa,1999.92,1767.22
+3303,6/29/2014,10.82899862,249.99,10,108.2899862,"WWI Wireless Transmitter and Bluetooth Headphones X250 Red","Wide World Importers",Bauchi,2499.90,2391.61
+2254,5/23/2014,106.2255339,119.99,24,2549.412814,"Adventure Works 13 Color TV E25 White""""","Adventure Works",Sokoto,2879.76,330.35
+2119,12/26/2011,43.58882363,143.4,4,174.3552945,"Adventure Works 19 Color Digital TV E35 White""""","Adventure Works",Adamawa,573.60,399.24
+3028,5/23/2012,35.54907026,349.95,10,355.4907026,"Adventure Works 20 LCD HDTV M120 Black""""","Adventure Works",Kano,3499.50,3144.01
+2188,04-03-12,115.2823171,349.95,10,1152.823171,"Adventure Works 20 LCD HDTV M120 Brown""""","Adventure Works",Imo,3499.50,2346.68
+2010,3/19/2014,384.6149182,499.99,10,3846.149182,"Adventure Works 32 LCD HDTV M130 Brown""""","Adventure Works",Nasarawa,4999.90,1153.75
+3370,3/30/2014,8.860613872,12.99,20,177.2122774,"Adventure Works 15.6 LCD TV M130W Silver""""","Adventure Works",Ondo,259.80,82.59
+2306,11/14/2014,131.2304648,2899.99,12,1574.765578,"Adventure Works 52 LCD HDTV X590 White""""","Adventure Works",Kwara,34799.88,33225.11
+2091,3/21/2014,292.6664755,1184.97,12,3511.997706,"Adventure Works 40 LCD HDTV M690 Brown""""","Adventure Works",Bauchi,14219.64,10707.64
+3410,12-04-13,665.8640225,1184.97,13,8656.232293,"Adventure Works 40 LCD HDTV M690 Brown""""","Adventure Works","Cross River",15404.61,6748.38
+2683,12/17/2013,296.0030752,469.97,8,2368.024602,"Adventure Works 26 720p LCD HDTV M140 Black""""","Adventure Works",Bauchi,3759.76,1391.74
+2861,12/23/2011,37.00592277,119,9,333.0533049,"SV 16xDVD M320 Black","Southridge Video",Ekiti,1071.00,737.95
+3222,8/22/2014,94.10034381,119,9,846.9030943,"SV 16xDVD M320 Black","Southridge Video",Ondo,1071.00,224.10
+2244,12-10-11,57.51906384,56.9,24,1380.457532,"SV 8xDVD E130 Black","Southridge Video",Nasarawa,1365.60,-14.86
+2526,6/18/2013,11.84455171,56.9,12,142.1346205,"SV 8xDVD E130 Black","Southridge Video",Imo,682.80,540.67
+1183,3/23/2012,40.68510464,66,6,244.1106278,"SV 8xDVD E140 Black","Southridge Video",Kwara,396.00,151.89
+1195,07-03-14,66.32652558,66,24,1591.836614,"SV 8xDVD E140 Black","Southridge Video",Adamawa,1584.00,-7.84
+3391,4/13/2012,13.00891742,66,5,65.04458712,"SV 8xDVD E140 Black","Southridge Video",Plateau,330.00,264.96
+1821,07-08-13,64.76143431,119,12,777.1372117,"SV 16xDVD M320 Silver","Southridge Video",Abia,1428.00,650.86
+2759,10/30/2012,76.17561195,119,13,990.2829554,"SV 16xDVD M320 Silver","Southridge Video",Oyo,1547.00,556.72
+2388,9/24/2014,40.1621313,116.9,10,401.621313,"SV 16xDVD M350 Silver","Southridge Video","Zamfara ",1169.00,767.38
+7608,2/23/2013,60.52475891,126.9,9,544.7228302,"SV 16xDVD M360 Silver","Southridge Video",Osun,1142.10,597.38
+22,02-02-13,45.45092171,126.9,9,409.0582954,"SV 16xDVD M360 Silver","Southridge Video",Anambra,1142.10,733.04
+1357,1/17/2012,33.32768355,126.9,12,399.9322026,"SV 16xDVD M360 Silver","Southridge Video","Zamfara ",1522.80,1122.87
+2355,8/26/2012,95.65901037,126.9,12,1147.908124,"SV 16xDVD M360 Silver","Southridge Video",Kano,1522.80,374.89
+3127,2/26/2012,83.30262938,126.9,9,749.7236644,"SV 16xDVD M360 Silver","Southridge Video",Gombe,1142.10,392.38
+2170,3/22/2014,173.4906838,199.9,10,1734.906838,"SV 8xDVD E130 Silver","Southridge Video",Gombe,1999.00,264.09
+821,7/22/2013,50.50583355,66,12,606.0700027,"SV 8xDVD E140 Silver","Southridge Video",Delta,792.00,185.93
+2458,1/22/2012,53.44606691,66,4,213.7842677,"SV 8xDVD E140 Silver","Southridge Video","Zamfara ",264.00,50.22
+7694,11-08-14,479.6246082,599,8,3836.996865,"Litware Home Theater System 4.1 Channel M410 Black",Litware,Benue,4792.00,955.00
+757,02-12-13,145.6543921,599,9,1310.889529,"Litware Home Theater System 4.1 Channel M410 Black",Litware,Gombe,5391.00,4080.11
+2814,9/14/2013,571.6554301,699,10,5716.554301,"Litware Home Theater System 5.1 Channel M511 Black","Litware ",Plateau,6990.00,1273.45
+7455,1/25/2012,241.0970144,269.9,8,1928.776115,"Litware Home Theater System 2.1 Channel E211 Black","Litware ","Akwa Ibom",2159.20,230.42
+583,5/17/2012,150.5676598,269.9,5,752.8382991,"Litware Home Theater System 2.1 Channel E211 Black","Litware ",Bayelsa,1349.50,596.66
+432,11/17/2012,271.3645277,299.9,4,1085.458111,"Litware Home Theater System 2.1 Channel E212 Black","Litware ","Cross River",1199.60,114.14
+905,4/22/2012,267.1351772,299.9,10,2671.351772,"Litware Home Theater System 2.1 Channel E212 Black","Litware ",Adamawa,2999.00,327.65
+1817,11/18/2012,93.93248902,299.9,4,375.7299561,"Litware Home Theater System 2.1 Channel E212 Black","Litware ",Adamawa,1199.60,823.87
+2397,8/20/2013,198.2677153,299.9,10,1982.677153,"Litware Home Theater System 2.1 Channel E212 Black","Litware ",Adamawa,2999.00,1016.32
+2601,1/17/2013,54.35335261,299.9,9,489.1801735,"Litware Home Theater System 2.1 Channel E212 Black","Litware ",Taraba,2699.10,2209.92
+2975,9/14/2014,50.10025377,569,20,1002.005075,"Litware Home Theater System 4.1 Channel M412 Black","Litware ",Kwara,11380.00,10377.99
+2999,12/19/2013,320.5631828,699,13,4167.321376,"Litware Home Theater System 5.1 Channel M512 Black","Litware ",Sokoto,9087.00,4919.68
+2591,03-02-14,71.00988057,95.95,9,639.0889252,"Litware Home Theater System 5.1 Channel M513 Black","Litware ",Imo,863.55,224.46
+206,07-09-14,185.226451,799,10,1852.26451,"Litware Home Theater System 7.1 Channel M710 Black","Litware ",Imo,7990.00,6137.74
+1001,10/16/2012,163.5139925,799,8,1308.11194,"Litware Home Theater System 7.1 Channel M710 Black","Litware ",Taraba,6392.00,5083.89
+2335,6/24/2013,206.7114515,799,12,2480.537418,"Litware Home Theater System 7.1 Channel M710 Black","Litware ",Anambra,9588.00,7107.46
+43,1/26/2013,207.9934914,599,9,1871.941422,"Litware Home Theater System 5.1 Channel M514 Black","Litware ",Sokoto,5391.00,3519.06
+421,7/29/2013,236.8639054,599,12,2842.366865,"Litware Home Theater System 5.1 Channel M514 Black","Litware ",Edo,7188.00,4345.63
+2293,11/26/2013,495.6504896,599,13,6443.456365,"Litware Home Theater System 5.1 Channel M514 Black","Litware ",Kwara,7787.00,1343.54
+1530,3/22/2013,126.4390528,569,10,1264.390528,"Litware Home Theater System 5.1 Channel M515 Black",Litware,Edo,5690.00,4425.61
+2724,05-12-12,480.5741196,569,10,4805.741196,"Litware Home Theater System 5.1 Channel M515 Black",Litware,Niger,5690.00,884.26
+45,2/27/2014,148.7670882,579,9,1338.903793,"Litware Home Theater System 5.1 Channel M516 Black","Litware ",Kogi,5211.00,3872.10
+2545,10-09-13,522.6219964,579,8,4180.975972,"Litware Home Theater System 5.1 Channel M516 Black","Litware ",Nasarawa,4632.00,451.02
+2649,1/29/2013,87.64923231,299,9,788.8430908,"Litware Home Theater System 2.1 Channel E210 Silver","Litware ",Imo,2691.00,1902.16
+3370,3/30/2014,8.860613872,12.99,20,177.2122774,"Litware Home Theater System 5.1 Channel M510 Silver","Litware ",Ondo,259.80,82.59
+3135,9/21/2012,229.0559401,269.9,5,1145.2797,"Litware Home Theater System 2.1 Channel E211 Silver","Litware ",Anambra,1349.50,204.22
+868,07-09-12,147.3277734,299.9,5,736.638867,"Litware Home Theater System 2.1 Channel E212 Silver","Litware ",Kano,1499.50,762.86
+1769,7/22/2012,77.75344128,299.9,5,388.7672064,"Litware Home Theater System 2.1 Channel E212 Silver","Litware ",Katsina,1499.50,1110.73
+7435,7/22/2013,98.41626862,569,12,1180.995223,"Litware Home Theater System 4.1 Channel M412 Silver","Litware ",Niger,6828.00,5647.00
+2949,9/21/2014,251.3061152,569,10,2513.061152,"Litware Home Theater System 4.1 Channel M412 Silver","Litware ",Osun,5690.00,3176.94
+2008,08-01-13,213.0845296,549,12,2557.014355,"Litware Home Theater System 4.1 Channel M413 Silver",Litware,Osun,6588.00,4030.99
+1786,11/14/2013,102.8436447,699,8,822.7491579,"Litware Home Theater System 5.1 Channel M512 Silver","Litware ",Adamawa,5592.00,4769.25
+1917,12/27/2013,9.014828092,699,8,72.11862474,"Litware Home Theater System 5.1 Channel M512 Silver","Litware ",Kano,5592.00,5519.88
+1845,11-01-13,280.7744711,599,13,3650.068124,"Litware Home Theater System 5.1 Channel M514 Silver","Litware ","Zamfara ",7787.00,4136.93
+2493,3/20/2014,418.6223448,569,10,4186.223448,"Litware Home Theater System 5.1 Channel M515 Silver",Litware,Ondo,5690.00,1503.78
+456,11/17/2012,326.0300238,579,8,2608.240191,"Litware Home Theater System 5.1 Channel M516 Silver","Litware ",Osun,4632.00,2023.76
+3060,12-03-12,5.728561574,579,13,74.47130046,"Litware Home Theater System 5.1 Channel M516 Silver","Litware ",Jigawa,7527.00,7452.53
+7553,07-10-14,267.565882,599,12,3210.790584,"Litware Home Theater System 4.1 Channel M410 Brown",Litware,Kano,7188.00,3977.21
+800,7/21/2014,482.4561935,599,12,5789.474323,"Litware Home Theater System 4.1 Channel M410 Brown",Litware,Kebbi,7188.00,1398.53
+1809,07-03-13,519.3672377,599,12,6232.406852,"Litware Home Theater System 4.1 Channel M410 Brown",Litware,Osun,7188.00,955.59
+2358,3/30/2012,59.51462961,59.99,5,297.5731481,"Litware Home Theater System 5.1 Channel M511 Brown","Litware ",Ekiti,299.95,2.38
+316,03-01-13,243.3360288,299,9,2190.024259,"Litware Home Theater System 2.1 Channel E210 Brown","Litware ",Osun,2691.00,500.98
+2602,9/14/2012,264.1205546,269.9,5,1320.602773,"Litware Home Theater System 2.1 Channel E211 Brown","Litware ",Katsina,1349.50,28.90
+7320,3/30/2012,451.1821852,689,24,10828.37244,"Litware Home Theater System 5.1 Channel M513 Brown","Litware ",Katsina,16536.00,5707.63
+7732,5/30/2012,409.5050254,689,10,4095.050254,"Litware Home Theater System 5.1 Channel M513 Brown","Litware ",Edo,6890.00,2794.95
+633,3/20/2012,518.8714549,689,10,5188.714549,"Litware Home Theater System 5.1 Channel M513 Brown","Litware ",Edo,6890.00,1701.29
+1426,8/25/2012,176.3135924,689,12,2115.763109,"Litware Home Theater System 5.1 Channel M513 Brown","Litware ",Kano,8268.00,6152.24
+2531,2/25/2013,226.828617,799,12,2721.943404,"Litware Home Theater System 7.1 Channel M710 Brown","Litware ",Borno,9588.00,6866.06
+2017,05-03-14,704.1995855,1109,6,4225.197513,"Litware Home Theater System 7.1 Channel X711 Brown","Litware ",Gombe,6654.00,2428.80
+1720,05-08-13,289.2984986,599,10,2892.984986,"Litware Home Theater System 5.1 Channel M514 Brown","Litware ",Nasarawa,5990.00,3097.02
+2047,03-12-13,382.8271895,599,10,3828.271895,"Litware Home Theater System 5.1 Channel M514 Brown","Litware ","Akwa Ibom",5990.00,2161.73
+2294,10/18/2013,411.2295797,599,13,5345.984536,"Litware Home Theater System 5.1 Channel M514 Brown","Litware ",Oyo,7787.00,2441.02
+2518,4/24/2014,357.4518199,599,10,3574.518199,"Litware Home Theater System 5.1 Channel M514 Brown","Litware ",Taraba,5990.00,2415.48
+1206,9/18/2013,200.9332381,299,10,2009.332381,"Contoso Home Theater System 2.1 Channel E1200 Black",Contoso,Delta,2990.00,980.67
+1372,06-07-12,238.8527988,299,6,1433.116793,"Contoso Home Theater System 2.1 Channel E1200 Black",Contoso,Adamawa,1794.00,360.88
+1984,04-04-12,287.68879,299,15,4315.33185,"Contoso Home Theater System 2.1 Channel E1200 Black",Contoso,Anambra,4485.00,169.67
+1678,02-07-13,536.9065037,889,12,6442.878044,"Contoso Home Theater System 7.1 Channel M1700 Black",Contoso,Osun,10668.00,4225.12
+88,09-01-12,117.203474,409,12,1406.441688,"Contoso Home Theater System 4.1 Channel M1400 Black",Contoso,Anambra,4908.00,3501.56
+970,09-05-14,170.0771906,409,8,1360.617525,"Contoso Home Theater System 4.1 Channel M1400 Black",Contoso,Kwara,3272.00,1911.38
+7406,8/23/2012,207.0559374,429,12,2484.671249,"Contoso Home Theater System 5.1 Channel M1500 Black",Contoso,Kwara,5148.00,2663.33
+3105,04-02-12,111.6891298,429,12,1340.269558,"Contoso Home Theater System 5.1 Channel M1500 Black",Contoso,Ekiti,5148.00,3807.73
+2523,04-04-12,32.98138916,329,10,329.8138916,"Contoso Home Theater System 4.1 Channel M1410 Black",Contoso,Gombe,3290.00,2960.19
+7427,08-06-14,219.219008,339,36,7891.884289,"Contoso Home Theater System 5.1 Channel M1520 Black",Contoso,Niger,12204.00,4312.12
+235,8/30/2012,265.3257116,399,9,2387.931404,"Contoso Home Theater System 5.1 Channel M1530 Black",Contoso,Bayelsa,3591.00,1203.07
+2240,05-09-13,185.7079464,399,10,1857.079464,"Contoso Home Theater System 5.1 Channel M1530 Black",Contoso,Ondo,3990.00,2132.92
+2866,06-09-13,5.44077354,199,12,65.28928248,"Contoso Home Theater System 2.1 Channel E1220 Black",Contoso,"Cross River",2388.00,2322.71
+1098,12/21/2011,106.2768573,299,4,425.1074292,"Contoso Home Theater System 2.1 Channel E1200 Silver",Contoso,"Cross River",1196.00,770.89
+2060,01-04-12,230.730508,299,6,1384.383048,"Contoso Home Theater System 2.1 Channel E1200 Silver",Contoso,Niger,1794.00,409.62
+3186,1/26/2012,229.5121199,329,9,2065.609079,"Contoso Home Theater System 2.1 Channel M1210 Silver",Contoso,"Zamfara ",2961.00,895.39
+1199,9/16/2013,45.06018591,889,10,450.6018591,"Contoso Home Theater System 7.1 Channel M1700 Silver",Contoso,Edo,8890.00,8439.40
+1314,9/19/2012,342.9698907,429,10,3429.698907,"Contoso Home Theater System 5.1 Channel M1500 Silver",Contoso,Plateau,4290.00,860.30
+2494,3/19/2014,338.1855275,429,12,4058.22633,"Contoso Home Theater System 5.1 Channel M1500 Silver",Contoso,Abia,5148.00,1089.77
+1054,1/30/2013,287.1988213,339,9,2584.789392,"Contoso Home Theater System 5.1 Channel M1520 Silver",Contoso,Sokoto,3051.00,466.21
+1668,8/30/2014,111.0289533,199,20,2220.579065,"Contoso Home Theater System 2.1 Channel E1220 Silver",Contoso,Osun,3980.00,1759.42
+1701,3/14/2012,163.401615,199,5,817.0080752,"Contoso Home Theater System 2.1 Channel E1220 Silver",Contoso,Adamawa,995.00,177.99
+7554,9/28/2013,58.18573526,480,10,581.8573526,"Contoso Home Theater System 4.1 Channel M1420 Silver",Contoso,Bauchi,4800.00,4218.14
+503,07-03-14,279.0337973,480,10,2790.337973,"Contoso Home Theater System 4.1 Channel M1420 Silver",Contoso,Nasarawa,4800.00,2009.66
+610,7/22/2012,135.3889532,329,10,1353.889532,"Contoso Home Theater System 2.1 Channel M1210 White",Contoso,Katsina,3290.00,1936.11
+1683,6/16/2013,80.44890604,329,12,965.3868725,"Contoso Home Theater System 2.1 Channel M1210 White",Contoso,Plateau,3948.00,2982.61
+2768,06-09-14,503.9164936,889,12,6046.997924,"Contoso Home Theater System 7.1 Channel M1700 White",Contoso,Borno,10668.00,4621.00
+3054,02-10-12,291.967198,889,9,2627.704782,"Contoso Home Theater System 7.1 Channel M1700 White",Contoso,Ondo,8001.00,5373.30
+640,4/29/2012,411.5262451,409,12,4938.314941,"Contoso Home Theater System 4.1 Channel M1400 White",Contoso,Rivers,4908.00,-30.31
+1908,5/29/2012,235.5096374,409,10,2355.096374,"Contoso Home Theater System 4.1 Channel M1400 White",Contoso,Enugu,4090.00,1734.90
+7499,05-08-12,206.5470651,429,10,2065.470651,"Contoso Home Theater System 5.1 Channel M1500 White",Contoso,"Akwa Ibom",4290.00,2224.53
+428,12/25/2011,255.2867861,429,9,2297.581075,"Contoso Home Theater System 5.1 Channel M1500 White",Contoso,Ebonyi,3861.00,1563.42
+2579,9/26/2014,64.34263234,489,10,643.4263234,"Contoso Home Theater System 5.1 Channel M1510 White",Contoso,Bauchi,4890.00,4246.57
+2439,8/28/2014,113.0130098,329,12,1356.156118,"Contoso Home Theater System 4.1 Channel M1410 White",Contoso,Ogun,3948.00,2591.84
+2854,3/13/2012,212.9263838,329,10,2129.263838,"Contoso Home Theater System 4.1 Channel M1410 White",Contoso,Nasarawa,3290.00,1160.74
+1100,1/24/2014,160.4659924,399,9,1444.193932,"Contoso Home Theater System 5.1 Channel M1530 White",Contoso,Osun,3591.00,2146.81
+1499,8/19/2012,325.1224269,399,12,3901.469123,"Contoso Home Theater System 5.1 Channel M1530 White",Contoso,Anambra,4788.00,886.53
+2283,11/13/2013,206.1863084,399,26,5360.844018,"Contoso Home Theater System 5.1 Channel M1530 White",Contoso,Katsina,10374.00,5013.16
+3356,01-01-13,269.093955,399,18,4843.69119,"Contoso Home Theater System 5.1 Channel M1530 White",Contoso,Enugu,7182.00,2338.31
+3364,5/31/2013,25.92101966,255,12,311.0522359,"Contoso Home Theater System 2.1 Channel E1220 White",Contoso,Enugu,3060.00,2748.95
+2942,09-09-13,481.9568509,529,10,4819.568509,"Contoso Home Theater System 5.1 Channel M1540 White",Contoso,Taraba,5290.00,470.43
+413,11/23/2012,381.0311069,480,26,9906.808778,"Contoso Home Theater System 4.1 Channel M1420 White",Contoso,Kwara,12480.00,2573.19
+3149,3/17/2012,318.8699977,480,10,3188.699977,"Contoso Home Theater System 4.1 Channel M1420 White",Contoso,Kaduna,4800.00,1611.30
+654,06-10-14,288.7563578,360,10,2887.563578,"Contoso Home Theater System 2.1 Channel M1230 White",Contoso,Kwara,3600.00,712.44
+1061,2/22/2014,186.6436751,299,18,3359.586151,"Contoso Home Theater System 2.1 Channel E1200 Brown",Contoso,Yobe,5382.00,2022.41
+2618,12/20/2011,189.1381833,299,4,756.5527331,"Contoso Home Theater System 2.1 Channel E1200 Brown",Contoso,Gombe,1196.00,439.45
+76,06-05-14,239.1830077,429,12,2870.196092,"Contoso Home Theater System 5.1 Channel M1500 Brown",Contoso,Gombe,5148.00,2277.80
+348,3/23/2014,263.9643556,429,10,2639.643556,"Contoso Home Theater System 5.1 Channel M1500 Brown",Contoso,Ekiti,4290.00,1650.36
+1348,8/25/2013,167.4148209,429,9,1506.733388,"Contoso Home Theater System 5.1 Channel M1500 Brown",Contoso,Kogi,3861.00,2354.27
+190,04-02-14,202.3801168,489,9,1821.421051,"Contoso Home Theater System 5.1 Channel M1510 Brown",Contoso,Ondo,4401.00,2579.58
+3015,2/22/2014,234.0216362,329,36,8424.778904,"Contoso Home Theater System 4.1 Channel M1410 Brown",Contoso,Adamawa,11844.00,3419.22
+852,2/27/2013,170.9344491,339,9,1538.410042,"Contoso Home Theater System 5.1 Channel M1520 Brown",Contoso,Kwara,3051.00,1512.59
+2002,05-04-14,9.880780372,339,12,118.5693645,"Contoso Home Theater System 5.1 Channel M1520 Brown",Contoso,Kebbi,4068.00,3949.43
+7283,09-11-14,71.95317328,199,16,1151.250772,"Contoso Home Theater System 2.1 Channel E1220 Brown",Contoso,Abia,3184.00,2032.75
+2808,7/28/2012,67.01267231,199,6,402.0760339,"Contoso Home Theater System 2.1 Channel E1220 Brown",Contoso,FCT,1194.00,791.92
+2111,07-11-13,13.60682358,499,10,136.0682358,"SV Car Video LCD7W M7081 Black","Southridge Video","Akwa Ibom",4990.00,4853.93
+2694,08-02-13,235.6387574,499,12,2827.665088,"SV Car Video LCD7W M7081 Black","Southridge Video",Anambra,5988.00,3160.33
+2707,11/14/2013,428.4447934,499,13,5569.782314,"SV Car Video LCD7W M7081 Black","Southridge Video",Anambra,6487.00,917.22
+3162,4/16/2012,304.9053418,499,10,3049.053418,"SV Car Video LCD7W M7081 Black","Southridge Video",Kogi,4990.00,1940.95
+7263,10-02-12,38.38022681,299,10,383.8022681,"SV Car Video TFT7 M7000 Black","Southridge Video",Imo,2990.00,2606.20
+7702,12/13/2011,188.2912786,299,8,1506.330229,"SV Car Video TFT7 M7000 Black","Southridge Video",Borno,2392.00,885.67
+712,02-09-13,81.07279012,299,9,729.6551111,"SV Car Video TFT7 M7000 Black","Southridge Video",Niger,2691.00,1961.34
+7302,8/13/2012,34.95104844,279,5,174.7552422,"SV Car Video TFT6.2W E6280 Black","Southridge Video",Plateau,1395.00,1220.24
+859,1/19/2014,103.9002349,279,18,1870.204229,"SV Car Video TFT6.2W E6280 Black","Southridge Video",Borno,5022.00,3151.80
+2179,08-04-12,202.4396626,279,4,809.7586505,"SV Car Video TFT6.2W E6280 Black","Southridge Video",Kogi,1116.00,306.24
+1526,9/30/2013,40.66231707,259,8,325.2985365,"SV Car Video TFT6.2W E6281 Black","Southridge Video",Ekiti,2072.00,1746.70
+1546,2/25/2014,22.25319896,259,18,400.5575813,"SV Car Video TFT6.2W E6281 Black","Southridge Video",Kano,4662.00,4261.44
+2991,11/17/2014,171.5977291,259,26,4461.540956,"SV Car Video TFT6.2W E6281 Black","Southridge Video",Ondo,6734.00,2272.46
+1520,8/28/2014,149.43991,269,24,3586.557839,"SV Car Video TFT6.2W E6282 Black","Southridge Video",Imo,6456.00,2869.44
+1636,11/27/2013,4.291979641,269,13,55.79573533,"SV Car Video TFT6.2W E6282 Black","Southridge Video",Adamawa,3497.00,3441.20
+7730,03-09-12,85.92053755,309,10,859.2053755,"SV Car Video TFT7 M7001 Black","Southridge Video","Cross River",3090.00,2230.79
+1733,5/26/2012,201.3857778,309,10,2013.857778,"SV Car Video TFT7 M7001 Black","Southridge Video",FCT,3090.00,1076.14
+7306,5/30/2014,171.1189823,199,40,6844.759291,"SV Car Video AM/FM E1000 Black","Southridge Video",Anambra,7960.00,1115.24
+132,11/24/2014,422.433376,869,6,2534.600256,"SV Car Video LCD9.2W X9281 Black","Southridge Video",Lagos,5214.00,2679.40
+1014,10/25/2012,452.1484608,699,13,5877.929991,"SV Car Video LCD7W M7082 Black","Southridge Video",Abia,9087.00,3209.07
+1196,10/14/2013,84.78916774,699,13,1102.259181,"SV Car Video LCD7W M7082 Black","Southridge Video",Kaduna,9087.00,7984.74
+1705,8/14/2012,624.2482968,699,9,5618.234672,"SV Car Video LCD7W M7082 Black","Southridge Video",Kwara,6291.00,672.77
+303,5/20/2012,212.0361303,329,10,2120.361303,"SV Car Video LCD7 M7001 Black","Southridge Video","Zamfara ",3290.00,1169.64
+3183,6/26/2013,291.2617954,369,12,3495.141545,"SV Car Video LCD7 M7002 Black","Southridge Video",Gombe,4428.00,932.86
+7460,1/14/2012,73.67593931,369,12,884.1112717,"SV Car Video LCD7 M7003 Black","Southridge Video",Kwara,4428.00,3543.89
+1804,4/30/2012,87.60769726,369,10,876.0769726,"SV Car Video LCD7 M7003 Black","Southridge Video",Kaduna,3690.00,2813.92
+2660,6/20/2014,201.0243267,369,12,2412.29192,"SV Car Video LCD7 M7003 Black","Southridge Video",Ekiti,4428.00,2015.71
+2693,03-09-13,107.7712191,369,10,1077.712191,"SV Car Video LCD7 M7003 Black","Southridge Video",Taraba,3690.00,2612.29
+2787,03-10-12,151.7688322,500,10,1517.688322,"SV Car Video LCD7W M7080 Silver","Southridge Video",Gombe,5000.00,3482.31
+7633,1/13/2013,135.7874704,499,9,1222.087233,"SV Car Video LCD7W M7081 Silver","Southridge Video",Rivers,4491.00,3268.91
+1004,03-01-14,395.2171344,499,12,4742.605613,"SV Car Video LCD7W M7081 Silver","Southridge Video",Ondo,5988.00,1245.39
+3111,01-06-14,152.4756668,499,36,5489.124005,"SV Car Video LCD7W M7081 Silver","Southridge Video",Imo,17964.00,12474.88
+2450,5/15/2012,9.69154378,299,10,96.9154378,"SV Car Video TFT7 M7000 Silver","Southridge Video",Kaduna,2990.00,2893.08
+2534,07-02-14,122.8750854,299,10,1228.750854,"SV Car Video TFT7 M7000 Silver","Southridge Video",Osun,2990.00,1761.25
+7362,12/25/2012,169.4445368,269,9,1525.000831,"SV Car Video TFT6.2W E6282 Silver","Southridge Video","Akwa Ibom",2421.00,896.00
+7716,4/13/2013,212.0625736,269,10,2120.625736,"SV Car Video TFT6.2W E6282 Silver","Southridge Video",Ebonyi,2690.00,569.37
+1410,12-07-12,70.28079057,309,13,913.6502774,"SV Car Video TFT7 M7001 Silver","Southridge Video",Plateau,4017.00,3103.35
+1933,03-09-14,56.10209873,309,12,673.2251848,"SV Car Video TFT7 M7001 Silver","Southridge Video",Delta,3708.00,3034.77
+2180,9/14/2012,41.26294998,309,10,412.6294998,"SV Car Video TFT7 M7001 Silver","Southridge Video",Edo,3090.00,2677.37
+2634,5/24/2013,87.83116551,309,12,1053.973986,"SV Car Video TFT7 M7001 Silver","Southridge Video",Bauchi,3708.00,2654.03
+991,9/18/2012,40.3898733,199,5,201.9493665,"SV Car Video AM/FM E1000 Silver","Southridge Video",Nasarawa,995.00,793.05
+2755,03-05-12,109.2224895,199,5,546.1124475,"SV Car Video AM/FM E1000 Silver","Southridge Video","Cross River",995.00,448.89
+7558,10/18/2012,217.653844,319,13,2829.499972,"SV Car Video TFT7 M7002 Silver","Southridge Video",Benue,4147.00,1317.50
+1284,5/19/2012,90.01856104,319,10,900.1856104,"SV Car Video TFT7 M7002 Silver","Southridge Video",Ondo,3190.00,2289.81
+1767,01-12-13,75.99620992,319,9,683.9658893,"SV Car Video TFT7 M7002 Silver","Southridge Video",Plateau,2871.00,2187.03
+2012,03-01-13,414.0846247,869,9,3726.761623,"SV Car Video LCD9.2W X9281 Silver","Southridge Video",Delta,7821.00,4094.24
+2195,12/13/2013,59.66167661,77.68,18,1073.910179,"SV Car Video LCD7 M7002 Silver","Southridge Video",Abia,1398.24,324.33
+1863,2/24/2012,312.1397673,369,12,3745.677208,"SV Car Video LCD7 M7003 Silver","Southridge Video",Ondo,4428.00,682.32
+3032,5/20/2014,337.0867833,369,12,4045.041399,"SV Car Video LCD7 M7003 Silver","Southridge Video",Bayelsa,4428.00,382.96
+7589,5/31/2012,98.24207263,499,10,982.4207263,"SV Car Video LCD7W M7081 Brown","Southridge Video",Ogun,4990.00,4007.58
+1659,12-11-11,168.2779541,499,36,6058.006349,"SV Car Video LCD7W M7081 Brown","Southridge Video",Oyo,17964.00,11905.99
+2239,11/25/2012,256.6289123,499,8,2053.031298,"SV Car Video LCD7W M7081 Brown","Southridge Video",Edo,3992.00,1938.97
+2730,12/21/2013,154.7572807,499,13,2011.844649,"SV Car Video LCD7W M7081 Brown","Southridge Video",Gombe,6487.00,4475.16
+2750,11/26/2014,148.4242099,499,13,1929.514729,"SV Car Video LCD7W M7081 Brown","Southridge Video",Bayelsa,6487.00,4557.49
+2257,12/31/2011,216.4000667,299,9,1947.6006,"SV Car Video TFT7 M7000 Brown","Southridge Video",Benue,2691.00,743.40
+7307,11-01-14,2.634697265,279,26,68.50212889,"SV Car Video TFT6.2W E6280 Brown","Southridge Video",Bayelsa,7254.00,7185.50
+2223,4/16/2012,151.8150948,279,5,759.0754739,"SV Car Video TFT6.2W E6280 Brown","Southridge Video","Zamfara ",1395.00,635.92
+3328,4/23/2012,4.203268542,259,5,21.01634271,"SV Car Video TFT6.2W E6281 Brown","Southridge Video",Plateau,1295.00,1273.98
+7372,05-07-12,14.51018752,269,5,72.55093762,"SV Car Video TFT6.2W E6282 Brown","Southridge Video",Osun,1345.00,1272.45
+1041,5/27/2012,166.2006644,269,5,831.0033221,"SV Car Video TFT6.2W E6282 Brown","Southridge Video",Osun,1345.00,514.00
+908,10-11-12,140.8815493,309,26,3662.920281,"SV Car Video TFT7 M7001 Brown","Southridge Video",Katsina,8034.00,4371.08
+1770,4/13/2014,246.8747239,309,12,2962.496687,"SV Car Video TFT7 M7001 Brown","Southridge Video",Ebonyi,3708.00,745.50
+615,11/30/2013,86.22479846,199,13,1120.92238,"SV Car Video AM/FM E1000 Brown","Southridge Video",Plateau,2587.00,1466.08
+2467,11-07-13,6.770989807,39.9,13,88.02286749,"Contoso Leather Case - case for digital photo camera X20 White",Contoso,Delta,518.70,430.68
+822,10/16/2014,17.47271087,19.9,26,454.2904827,"Contoso Battery charger - bike E200 White",Contoso,Borno,517.40,63.11
+1299,08-02-14,19.56127185,19.9,18,352.1028934,"Contoso Battery charger - bike E200 White",Contoso,Rivers,358.20,6.10
+7678,06-03-12,10.73890513,15.5,5,53.69452564,"Contoso USB Optical Mouse E200 White",Contoso,Nasarawa,77.50,23.81
+394,05-05-13,11.31663666,15.5,10,113.1663666,"Contoso USB Optical Mouse E200 White",Contoso,Plateau,155.00,41.83
+781,02-02-14,12.53912298,15.5,18,225.7042136,"Contoso USB Optical Mouse E200 White",Contoso,Edo,279.00,53.30
+1408,11-07-14,14.46320326,15.9,26,376.0432846,"Contoso USB Wave Multi-media Keyboard E280 White",Contoso,Rivers,413.40,37.36
+1945,09-04-13,2.732602933,15.9,9,24.5934264,"Contoso USB Wave Multi-media Keyboard E280 White",Contoso,Ekiti,143.10,118.51
+2136,11-12-13,0.923263566,15.9,13,12.00242636,"Contoso USB Wave Multi-media Keyboard E280 White",Contoso,"Cross River",206.70,194.70
+2346,08-04-13,0.540130797,15.9,10,5.401307973,"Contoso USB Wave Multi-media Keyboard E280 White",Contoso,Nasarawa,159.00,153.60
+702,11/17/2012,3.173023216,11.9,6,19.03813929,"Contoso Cables To Go USB 2.0 Hard Drive Enclosure E920 White",Contoso,Plateau,71.40,52.36
+1459,02-11-12,11.1646661,11.9,6,66.98799661,"Contoso Cables To Go USB 2.0 Hard Drive Enclosure E920 White",Contoso,Ogun,71.40,4.41
+2224,6/17/2012,3.776900071,11.9,5,18.88450036,"Contoso Cables To Go USB 2.0 Hard Drive Enclosure E920 White",Contoso,Jigawa,59.50,40.62
+1835,01-07-12,8.455529942,12.95,6,50.73317965,"Contoso Rechargeable Battery E100 Grey",Contoso,Ogun,77.70,26.97
+2995,10/28/2012,12.69488259,12.95,6,76.16929552,"Contoso Rechargeable Battery E100 Grey",Contoso,Edo,77.70,1.53
+2997,1/30/2013,27.10669773,39.9,9,243.9602796,"Contoso Dual USB Power Adapter - power adapter E300 Grey",Contoso,Ogun,359.10,115.14
+2421,06-09-14,8.855970349,19.95,12,106.2716442,"Contoso Car power adapter M90 Grey",Contoso,Sokoto,239.40,133.13
+736,6/19/2014,10.0026692,16.5,12,120.0320304,"Contoso Notebook Peripheral Kit M69 Grey",Contoso,"Akwa Ibom",198.00,77.97
+1291,05-01-12,4.59333777,16.5,10,45.9333777,"Contoso Notebook Peripheral Kit M69 Grey",Contoso,Kebbi,165.00,119.07
+1560,12-06-11,10.3584875,16.5,9,93.22638752,"Contoso Notebook Peripheral Kit M69 Grey",Contoso,Bauchi,148.50,55.27
+7421,11/13/2013,9.557760694,13.5,8,76.46208556,"Contoso Education Supplies Bundle E200 Grey",Contoso,Kebbi,108.00,31.54
+385,8/21/2012,6.290537175,13.5,12,75.4864461,"Contoso Education Supplies Bundle E200 Grey",Contoso,Abia,162.00,86.51
+2205,5/24/2013,5.097584024,13.5,10,50.97584024,"Contoso Education Supplies Bundle E200 Grey",Contoso,Kaduna,135.00,84.02
+2783,03-06-12,5.722765269,13.5,5,28.61382634,"Contoso Education Supplies Bundle E200 Grey",Contoso,Ondo,67.50,38.89
+3315,5/19/2012,1.536754921,13.5,5,7.683774605,"Contoso Education Supplies Bundle E200 Grey",Contoso,Ondo,67.50,59.82
+136,12/25/2013,8.470778641,11.5,18,152.4740155,"Contoso Desktop Alternative Bundle E200 Grey",Contoso,Imo,207.00,54.53
+2885,02-10-12,4.217914059,11.5,4,16.87165624,"Contoso Desktop Alternative Bundle E200 Grey",Contoso,Delta,46.00,29.13
+2591,03-02-14,71.00988057,95.95,9,639.0889252,"Contoso Power Inverter - DC to AC power inverter E900 Grey",Contoso,Imo,863.55,224.46
+7309,1/31/2012,25.73194382,29.9,4,102.9277753,"Contoso Laptop Cooling Hub notebook fan with 4 ports USB hub E80 Grey",Contoso,Rivers,119.60,16.67
+1842,11-11-13,10.27270693,25.5,13,133.5451901,"Contoso Home/Office Laptop Power Adapter E300 Grey",Contoso,Ogun,331.50,197.95
+2352,02-08-14,7.956522941,25.5,18,143.2174129,"Contoso Home/Office Laptop Power Adapter E300 Grey",Contoso,"Akwa Ibom",459.00,315.78
+1438,4/25/2013,153.8367581,310,10,1538.367581,"The Phone Company Smart phones Unlocked International M800 Grey","The Phone Company","Akwa Ibom",3100.00,1561.63
+3197,10-04-12,192.0572719,310,10,1920.572719,"The Phone Company Smart phones Unlocked International M800 Grey","The Phone Company",Kano,3100.00,1179.43
+3267,04-05-12,141.5224385,310,20,2830.44877,"The Phone Company Smart phones Unlocked International M800 Grey","The Phone Company",Yobe,6200.00,3369.55
+763,11/29/2012,28.61703476,129,6,171.7022086,"The Phone Company Smart phones without camera E100 White","The Phone Company",Ogun,774.00,602.30
+1002,8/29/2014,39.1118181,129,18,704.0127257,"The Phone Company Smart phones without camera E100 White","The Phone Company",Anambra,2322.00,1617.99
+1342,6/18/2014,35.8327764,129,24,859.9866335,"The Phone Company Smart phones without camera E100 White","The Phone Company",Gombe,3096.00,2236.01
+34,4/27/2012,67.22890054,208,10,672.2890054,"The Phone Company Smart phones 160x160 M26 White","The Phone Company",Jigawa,2080.00,1407.71
+936,5/15/2014,152.9110208,208,12,1834.932249,"The Phone Company Smart phones 160x160 M26 White","The Phone Company",Delta,2496.00,661.07
+2429,3/22/2014,183.8093082,267,10,1838.093082,"The Phone Company Smart phones Unlocked M300 White","The Phone Company",Jigawa,2670.00,831.91
+7381,11-07-12,233.8614414,300,13,3040.198739,"The Phone Company Smart phones Expert M400 White","The Phone Company",Anambra,3900.00,859.80
+7433,8/13/2012,164.5534197,300,9,1480.980777,"The Phone Company Smart phones Expert M400 White","The Phone Company",Kaduna,2700.00,1219.02
+912,11-07-12,146.2742414,300,13,1901.565138,"The Phone Company Smart phones Expert M400 White","The Phone Company",Oyo,3900.00,1998.43
+3408,8/25/2013,3.650558705,300,12,43.80670446,"The Phone Company Smart phones Expert M400 White","The Phone Company",Bayelsa,3600.00,3556.19
+2227,9/13/2013,287.8258774,869,10,2878.258774,"SV Car Video LCD9.2W X9281 Brown","Southridge Video",Bayelsa,8690.00,5811.74
+2573,10/24/2013,511.0331417,869,8,4088.265134,"SV Car Video LCD9.2W X9281 Brown","Southridge Video",Edo,6952.00,2863.73
+7257,02-05-14,17.55564517,329,9,158.0008065,"SV Car Video LCD7 M7001 Brown","Southridge Video",Katsina,2961.00,2803.00
+2869,8/21/2013,697.0447724,1199,12,8364.537269,"Fabrikam Laptop19W M9800 Black",Fabrikam,Adamawa,14388.00,6023.46
+1213,8/14/2012,182.9855551,879.9,24,4391.653322,"Fabrikam Laptop17W M7080 Black",Fabrikam,Enugu,21117.60,16725.95
+3003,06-04-12,177.423514,879.9,12,2129.082168,"Fabrikam Laptop17W M7080 Black",Fabrikam,Anambra,10558.80,8429.72
+7411,11-01-13,450.0240082,819,13,5850.312106,"Fabrikam Laptop17 M7000 Black",Fabrikam,Ebonyi,10647.00,4796.69
+196,3/14/2014,42.71564529,819,10,427.1564529,"Fabrikam Laptop17 M7000 Black",Fabrikam,Ekiti,8190.00,7762.84
+786,12/17/2013,639.3620367,819,8,5114.896294,"Fabrikam Laptop17 M7000 Black",Fabrikam,Oyo,6552.00,1437.10
+7515,09-10-13,400.9673082,967,10,4009.673082,"Fabrikam Laptop16W M6080 Black",Fabrikam,Edo,9670.00,5660.33
+52,10-04-14,249.9437733,967,10,2499.437733,"Fabrikam Laptop16W M6080 Black",Fabrikam,Gombe,9670.00,7170.56
+2520,2/20/2014,293.563882,967,9,2642.074938,"Fabrikam Laptop16W M6080 Black",Fabrikam,Rivers,8703.00,6060.93
+3100,04-05-12,398.1548016,967,10,3981.548016,"Fabrikam Laptop16W M6080 Black",Fabrikam,Kebbi,9670.00,5688.45
+1896,1/21/2014,27.33467902,599,9,246.0121112,"Fabrikam Laptop16 M6000 Black",Fabrikam,Delta,5391.00,5144.99
+2565,08-03-14,406.9715301,599,36,14650.97508,"Fabrikam Laptop16 M6000 Black",Fabrikam,Kebbi,21564.00,6913.02
+1434,10/30/2013,217.0701172,366,8,1736.560938,"Fabrikam Laptop12 M2000 White",Fabrikam,Imo,2928.00,1191.44
+759,9/30/2013,304.0174519,699,10,3040.174519,"Fabrikam Laptop15 M5000 White",Fabrikam,Ekiti,6990.00,3949.83
+2452,5/15/2014,202.1520415,699,10,2021.520415,"Fabrikam Laptop15 M5000 White",Fabrikam,Gombe,6990.00,4968.48
+2781,03-01-13,494.1874309,699,9,4447.686878,"Fabrikam Laptop15 M5000 White",Fabrikam,Taraba,6291.00,1843.31
+3029,10/19/2014,67.49821515,699,8,539.9857212,"Fabrikam Laptop15 M5000 White",Fabrikam,Imo,5592.00,5052.01
+32,11/30/2012,432.3227561,659,8,3458.582048,"Fabrikam Laptop15.4 M5400 White",Fabrikam,Lagos,5272.00,1813.42
+3012,11-12-14,439.1532137,659,8,3513.22571,"Fabrikam Laptop15.4 M5400 White",Fabrikam,Sokoto,5272.00,1758.77
+276,9/29/2013,108.1662055,586,20,2163.324111,"Fabrikam Laptop14.1 M4100 White",Fabrikam,Benue,11720.00,9556.68
+278,08-08-13,128.5034669,586,12,1542.041603,"Fabrikam Laptop14.1 M4100 White",Fabrikam,Benue,7032.00,5489.96
+1248,9/13/2013,125.8875329,586,10,1258.875329,"Fabrikam Laptop14.1 M4100 White",Fabrikam,Delta,5860.00,4601.12
+1521,10-03-13,397.5046922,758,16,6360.075075,"Fabrikam Laptop15.4W M5480 White",Fabrikam,FCT,12128.00,5767.92
+2066,6/25/2012,399.4339274,399,10,3994.339274,"Fabrikam Laptop12W M2080 Silver",Fabrikam,Borno,3990.00,-4.34
+1072,03-07-12,385.1895343,384.9,10,3851.895343,"Fabrikam Laptop10.1 M0101 Silver",Fabrikam,Ondo,3849.00,-2.90
+737,04-03-14,149.1674259,382.95,10,1491.674259,"Fabrikam Laptop12 M2001 Silver",Fabrikam,"Cross River",3829.50,2337.83
+1414,04-11-14,192.4142568,382.95,10,1924.142568,"Fabrikam Laptop12 M2001 Silver",Fabrikam,"Cross River",3829.50,1905.36
+1605,9/29/2012,283.3548428,456.9,10,2833.548428,"Fabrikam Laptop14.1W M4180 Red",Fabrikam,Katsina,4569.00,1735.45
+2416,2/25/2014,159.3919002,456.9,12,1912.702802,"Fabrikam Laptop14.1W M4180 Red",Fabrikam,Osun,5482.80,3570.10
+2578,08-08-14,6.077453432,456.9,10,60.77453432,"Fabrikam Laptop14.1W M4180 Red",Fabrikam,"Zamfara ",4569.00,4508.23
+7601,11/22/2012,132.9113427,330,8,1063.290741,"Fabrikam Laptop14.1 E4101 Red",Fabrikam,Osun,2640.00,1576.71
+2758,11/25/2013,192.3491355,326,13,2500.538762,"Fabrikam Laptop8.9 E8002 Red",Fabrikam,"Zamfara ",4238.00,1737.46
+7539,12/22/2012,204.4610548,368,9,1840.149493,"Fabrikam Laptop12 M2002 Red",Fabrikam,Anambra,3312.00,1471.85
+2645,10-12-14,353.9359755,368,13,4601.167682,"Fabrikam Laptop12 M2002 Red",Fabrikam,Borno,4784.00,182.83
+1413,4/23/2014,211.4216593,380,10,2114.216593,"Fabrikam Laptop13.3 M3000 Red",Fabrikam,Kogi,3800.00,1685.78
+1826,5/15/2014,22.91498342,389,10,229.1498342,"Fabrikam Laptop13.3W M3080 Red",Fabrikam,Ondo,3890.00,3660.85
+7287,10/30/2012,327.2916247,699,24,7854.998992,"Adventure Works Laptop15 M1500 Black","Adventure Works",Kogi,16776.00,8921.00
+30,11/24/2013,530.7448924,699,13,6899.683601,"Adventure Works Laptop15 M1500 Black","Adventure Works",Nasarawa,9087.00,2187.32
+1381,02-09-13,146.5756458,699,12,1758.907749,"Adventure Works Laptop15 M1500 Black","Adventure Works",Benue,8388.00,6629.09
+1480,09-01-14,565.491341,699,12,6785.896092,"Adventure Works Laptop15 M1500 Black","Adventure Works",Ekiti,8388.00,1602.10
+1963,12-02-13,592.3434989,699,13,7700.465486,"Adventure Works Laptop15 M1500 Black","Adventure Works",Nasarawa,9087.00,1386.53
+1511,9/23/2014,639.2447876,758,10,6392.447876,"Adventure Works Laptop15.4W M1548 Black","Adventure Works",Bayelsa,7580.00,1187.55
+1679,11/14/2014,225.0920636,758,13,2926.196827,"Adventure Works Laptop15.4W M1548 Black","Adventure Works",Edo,9854.00,6927.80
+2537,02-07-14,205.3961915,758,9,1848.565723,"Adventure Works Laptop15.4W M1548 Black","Adventure Works",Katsina,6822.00,4973.43
+2497,11/28/2014,52.51297662,326,16,840.2076258,"Adventure Works Laptop8.9 E0890 Black","Adventure Works",Plateau,5216.00,4375.79
+2920,06-10-14,41.58565917,326,24,998.05582,"Adventure Works Laptop8.9 E0890 Black","Adventure Works",Benue,7824.00,6825.94
+3392,07-12-14,215.1766371,326,24,5164.239291,"Adventure Works Laptop8.9 E0890 Black","Adventure Works",Oyo,7824.00,2659.76
+478,12/24/2013,390.7985232,1299,18,7034.373417,"Adventure Works Laptop19W X1980 White","Adventure Works",Ogun,23382.00,16347.63
+1235,9/24/2014,304.4974512,382.95,10,3044.974512,"Adventure Works Laptop12 M1201 White","Adventure Works",Ogun,3829.50,784.53
+2655,02-02-14,222.9726445,382.95,18,4013.5076,"Adventure Works Laptop12 M1201 White","Adventure Works",Plateau,6893.10,2879.59
+2677,04-09-14,259.4437131,382.95,10,2594.437131,"Adventure Works Laptop12 M1201 White","Adventure Works",Taraba,3829.50,1235.06
+345,6/22/2014,147.0766935,599,12,1764.920322,"Adventure Works Laptop16 M1601 White","Adventure Works",Rivers,7188.00,5423.08
+814,01-04-13,42.01523385,599,8,336.1218708,"Adventure Works Laptop16 M1601 White","Adventure Works","Zamfara ",4792.00,4455.88
+886,3/28/2014,48.55997959,599,18,874.0796326,"Adventure Works Laptop16 M1601 White","Adventure Works",Bauchi,10782.00,9907.92
+1364,3/22/2012,369.4411349,599,18,6649.940427,"Adventure Works Laptop16 M1601 White","Adventure Works",Jigawa,10782.00,4132.06
+3072,04-11-14,15.05234711,599,10,150.5234711,"Adventure Works Laptop16 M1601 White","Adventure Works",Kano,5990.00,5839.48
+1212,11/24/2014,325.2873091,1299,6,1951.723855,"Adventure Works Laptop19W X1980 Silver","Adventure Works",Ebonyi,7794.00,5842.28
+2013,8/19/2014,593.6344358,699,12,7123.61323,"Adventure Works Laptop15 M1501 Silver","Adventure Works",Kogi,8388.00,1264.39
+2201,04-10-12,383.8125999,699,10,3838.125999,"Adventure Works Laptop15 M1501 Silver","Adventure Works",Niger,6990.00,3151.87
+2058,07-06-12,135.9451148,599,9,1223.506033,"Adventure Works Laptop16 M1601 Silver","Adventure Works",Ebonyi,5391.00,4167.49
+2482,3/30/2012,234.3074146,599,10,2343.074146,"Adventure Works Laptop16 M1601 Silver","Adventure Works",Katsina,5990.00,3646.93
+2718,06-11-13,65.6499122,599,12,787.7989464,"Adventure Works Laptop16 M1601 Silver","Adventure Works",Adamawa,7188.00,6400.20
+3299,8/19/2014,347.2283709,599,12,4166.740451,"Adventure Works Laptop16 M1601 Silver","Adventure Works",Enugu,7188.00,3021.26
+985,02-06-13,261.7150924,758,9,2355.435831,"Adventure Works Laptop15.4W M1548 Silver","Adventure Works","Cross River",6822.00,4466.56
+1078,2/23/2014,292.8960885,758,18,5272.129593,"Adventure Works Laptop15.4W M1548 Silver","Adventure Works",Sokoto,13644.00,8371.87
+1099,12/31/2012,310.654718,758,18,5591.784924,"Adventure Works Laptop15.4W M1548 Silver","Adventure Works",Bauchi,13644.00,8052.22
+3201,2/22/2013,23.02200974,758,9,207.1980876,"Adventure Works Laptop15.4W M1548 Silver","Adventure Works",Imo,6822.00,6614.80
+7274,5/25/2013,122.0836678,326,10,1220.836678,"Adventure Works Laptop8.9 E0890 Silver","Adventure Works",Anambra,3260.00,2039.16
+614,4/24/2012,115.8929262,326,5,579.464631,"Adventure Works Laptop8.9 E0890 Silver","Adventure Works",Rivers,1630.00,1050.54
+1748,11/30/2012,230.1484108,326,6,1380.890465,"Adventure Works Laptop8.9 E0890 Silver","Adventure Works",Lagos,1956.00,575.11
+2264,03-10-12,798.1902002,999,10,7981.902002,"WWI Projector 720p DLP56 Black","Wide World Importers",Kano,9990.00,2008.10
+3314,4/26/2012,53.18736493,999,10,531.8736493,"WWI Projector 720p DLP56 Black","Wide World Importers",Benue,9990.00,9458.13
+1524,9/28/2012,57.51696301,229,10,575.1696301,"WWI Projector 480p LCD12 Black","Wide World Importers",Ebonyi,2290.00,1714.83
+1988,6/19/2014,16.67301675,21.57,24,400.1524019,"WWI Screen 113in M1610 Black","Wide World Importers",Katsina,517.68,117.53
+2629,3/15/2013,11.0597826,21.57,24,265.4347825,"WWI Screen 113in M1610 Black","Wide World Importers",Ekiti,517.68,252.25
+3104,12-12-13,175.4361204,251,13,2280.669565,"WWI Screen 106in M1609 Black","Wide World Importers",Kano,3263.00,982.33
+425,2/28/2014,155.0046497,190,18,2790.083694,"WWI Screen 100in M1609 Black","Wide World Importers",Kebbi,3420.00,629.92
+1010,5/30/2014,98.90580707,190,24,2373.73937,"WWI Screen 100in M1609 Black","Wide World Importers",Abia,4560.00,2186.26
+1494,01-04-13,100.9540909,190,8,807.6327272,"WWI Screen 100in M1609 Black","Wide World Importers",Nasarawa,1520.00,712.37
+1648,3/28/2013,109.1405748,190,10,1091.405748,"WWI Screen 100in M1609 Black","Wide World Importers",Rivers,1900.00,808.59
+1831,9/22/2012,43.70425619,190,5,218.521281,"WWI Screen 100in M1609 Black","Wide World Importers",Enugu,950.00,731.48
+2396,08-08-14,170.589871,190,18,3070.617678,"WWI Screen 100in M1609 Black","Wide World Importers",Niger,3420.00,349.38
+172,7/13/2012,22.04066533,139,5,110.2033266,"WWI Screen 85in E1010 Black","Wide World Importers",Rivers,695.00,584.80
+727,11/23/2012,83.14587116,139,6,498.875227,"WWI Screen 85in E1010 Black","Wide World Importers",Edo,834.00,335.12
+113,9/15/2013,601.4158616,2295,10,6014.158616,"WWI Projector 1080p LCD86 White","Wide World Importers",Kogi,22950.00,16935.84
+2661,10/21/2013,100.2048487,2295,13,1302.663033,"WWI Projector 1080p LCD86 White","Wide World Importers","Zamfara ",29835.00,28532.34
+1795,10/19/2013,429.1966177,2499,13,5579.55603,"WWI Projector 1080p DLP86 White","Wide World Importers",Bauchi,32487.00,26907.44
+1752,5/23/2012,758.1119842,999,30,22743.35953,"WWI Projector 720p DLP56 White","Wide World Importers",FCT,29970.00,7226.64
+1870,01-09-13,852.3869813,999,12,10228.64378,"WWI Projector 720p DLP56 White","Wide World Importers","Zamfara ",11988.00,1759.36
+573,12/30/2013,6.135618634,229,13,79.76304224,"WWI Projector 480p LCD12 White","Wide World Importers",Ebonyi,2977.00,2897.24
+2419,10/16/2012,192.8569681,229,13,2507.140585,"WWI Projector 480p LCD12 White","Wide World Importers",Gombe,2977.00,469.86
+1814,8/16/2012,75.87049548,499,9,682.8344593,"WWI Projector 480p DLP12 White","Wide World Importers",Abia,4491.00,3808.17
+3295,08-08-13,196.7279626,499,9,1770.551663,"WWI Projector 480p DLP12 White","Wide World Importers",Imo,4491.00,2720.45
+7467,1/22/2013,160.787547,299,9,1447.087923,"WWI Screen 113in M1610 White","Wide World Importers",Kogi,2691.00,1243.91
+44,1/14/2013,190.2505381,251,9,1712.254843,"WWI Screen 106in M1609 White","Wide World Importers","Akwa Ibom",2259.00,546.75
+2509,5/13/2013,157.336889,251,10,1573.36889,"WWI Screen 106in M1609 White","Wide World Importers",Nasarawa,2510.00,936.63
+7251,9/21/2013,95.28618723,139,10,952.8618723,"WWI Screen 85in E1010 White","Wide World Importers",Bauchi,1390.00,437.14
+238,10/15/2012,38.01316992,139,6,228.0790195,"WWI Screen 85in E1010 White","Wide World Importers",Ondo,834.00,605.92
+1280,4/14/2014,44.50723375,139,20,890.144675,"WWI Screen 85in E1010 White","Wide World Importers",Jigawa,2780.00,1889.86
+2233,08-06-14,31.25134287,139,18,562.5241716,"WWI Screen 85in E1010 White","Wide World Importers","Zamfara ",2502.00,1939.48
+2503,5/23/2012,81.38939293,139,5,406.9469646,"WWI Screen 85in E1010 White","Wide World Importers","Cross River",695.00,288.05
+1066,10/16/2014,6.178593951,20.96,26,160.6434427,"Contoso Wireless Laser Mouse E50 Grey",Contoso,Gombe,544.96,384.32
+2591,03-02-14,71.00988057,95.95,9,639.0889252,"Contoso Wireless Notebook Optical Mouse X205 Silver",Contoso,Imo,863.55,224.46
+1190,3/25/2013,7.649769404,13,9,68.84792464,"Contoso Optical Wheel OEM PS/2 Mouse E60 Grey",Contoso,Imo,117.00,48.15
+1985,03-09-13,0.590623985,13,10,5.906239855,"Contoso Optical Wheel OEM PS/2 Mouse E60 Grey",Contoso,Kwara,130.00,124.09
+2428,7/22/2013,9.105489923,13,10,91.05489923,"Contoso Optical Wheel OEM PS/2 Mouse E60 Grey",Contoso,"Cross River",130.00,38.95
+545,8/19/2013,4.454453139,13,12,53.45343766,"Contoso Optical Wheel OEM PS/2 Mouse E60 Black",Contoso,Taraba,156.00,102.55
+1122,01-01-14,7.148167373,13,26,185.8523517,"Contoso Optical Wheel OEM PS/2 Mouse E60 Black",Contoso,Kwara,338.00,152.15
+2501,02-01-14,2.404036038,13,18,43.27264868,"Contoso Optical Wheel OEM PS/2 Mouse E60 Black",Contoso,Borno,234.00,190.73
+2575,2/26/2012,11.97950905,13,4,47.91803619,"Contoso Optical Wheel OEM PS/2 Mouse E60 White",Contoso,Bayelsa,52.00,4.08
+2691,02-10-12,1.537221818,13,4,6.14888727,"Contoso Optical Wheel OEM PS/2 Mouse E60 Silver",Contoso,Borno,52.00,45.85
+2732,6/19/2014,3.769648334,13,24,90.47156,"Contoso Optical Wheel OEM PS/2 Mouse E60 Silver",Contoso,Taraba,312.00,221.53
+978,12/16/2013,97.55909201,150,9,878.0318281,"Contoso Bluetooth Notebook Mouse X305 Silver",Contoso,Plateau,1350.00,471.97
+495,07-02-12,29.7246066,50,6,178.3476396,"Contoso Bluetooth Notebook Mouse E70 Black",Contoso,Jigawa,300.00,121.65
+2807,7/25/2012,26.14182994,50,6,156.8509796,"Contoso Bluetooth Notebook Mouse E70 Black",Contoso,Oyo,300.00,143.15
+2813,6/30/2013,19.21117515,50,10,192.1117515,"Contoso Bluetooth Notebook Mouse E70 Black",Contoso,Gombe,500.00,307.89
+1229,6/24/2014,1.81582258,50,24,43.57974191,"Contoso Bluetooth Notebook Mouse E70 Silver",Contoso,Edo,1200.00,1156.42
+2544,7/30/2014,20.4977972,50,20,409.955944,"Contoso Bluetooth Notebook Mouse E70 Silver",Contoso,Ekiti,1000.00,590.04
+114,02-12-12,9.22662589,41.73,4,36.90650356,"SV Keyboard E90 White","Southridge Video",Katsina,166.92,130.01
+681,04-08-13,5.082342983,41.73,10,50.82342983,"SV Keyboard E90 White","Southridge Video",Delta,417.30,366.48
+2148,7/30/2012,7.243182726,41.73,18,130.3772891,"SV Keyboard E90 White","Southridge Video",Borno,751.14,620.76
+3402,11-08-12,11.33052072,41.73,6,67.98312435,"SV Keyboard E90 White","Southridge Video",Enugu,250.38,182.40
+1911,1/25/2012,39.62721594,41.73,4,158.5088638,"SV Keyboard E90 Black","Southridge Video",Ekiti,166.92,8.41
+480,6/30/2013,38.81041049,41.73,12,465.7249258,"SV Keyboard E90 Grey","Southridge Video",Enugu,500.76,35.04
+1065,09-06-12,25.57444123,41.73,4,102.2977649,"SV Keyboard E90 Grey","Southridge Video",Kebbi,166.92,64.62
+7595,03-11-14,17.68584508,22.99,10,176.8584508,"Contoso Multi-line phones M30 White",Contoso,Katsina,229.90,53.04
+2300,02-03-13,14.03141486,22.99,9,126.2827337,"Contoso Multi-line phones M30 White",Contoso,Jigawa,206.91,80.63
+3142,10/28/2012,14.44970932,22.99,8,115.5976745,"Contoso Multi-line phones M30 White",Contoso,Katsina,183.92,68.32
+3240,5/20/2013,14.10690681,26.99,12,169.2828817,"Contoso KSU-less key system M38 White",Contoso,FCT,323.88,154.60
+7514,11/28/2013,19.33912126,28.99,13,251.4085764,"Contoso Hybrid system M60 White",Contoso,Ebonyi,376.87,125.46
+2250,6/18/2012,23.59551032,28.99,12,283.1461238,"Contoso Hybrid system M60 White",Contoso,Imo,347.88,64.73
+3294,4/29/2014,16.35562478,28.99,12,196.2674973,"Contoso Hybrid system M60 White",Contoso,Osun,347.88,151.61
+2496,11-08-13,18.16034552,35.99,13,236.0844918,"Contoso 4 Handset Cordless Phone System M86 White",Contoso,Gombe,467.87,231.79
+940,2/29/2012,32.60172435,38.99,9,293.4155192,"Contoso Private Automatic Branch Exchange M65 White",Contoso,Kwara,350.91,57.49
+7672,9/16/2014,36.59617283,39.99,10,365.9617283,"Contoso Electronic Private Automatic Branch Exchange M90 White",Contoso,Bauchi,399.90,33.94
+1089,04-10-12,9.50823327,42.99,10,95.0823327,"Contoso Centrex Phone System L10 White",Contoso,Imo,429.90,334.82
+1285,08-03-14,11.39760213,42.99,20,227.9520426,"Contoso Centrex Phone System L10 White",Contoso,Taraba,859.80,631.85
+1820,04-05-13,24.87697922,46.99,12,298.5237506,"Contoso In front of Centrex L15 White",Contoso,Ebonyi,563.88,265.36
+7456,02-04-13,9.158621342,16.99,9,82.42759208,"Contoso Phone with 13-Number Memory (210) M301 White",Contoso,Anambra,152.91,70.48
+458,6/25/2013,4.628327477,16.99,10,46.28327477,"Contoso Phone with 13-Number Memory (210) M301 White",Contoso,Kwara,169.90,123.62
+1328,01-07-12,11.15854305,16.99,9,100.4268875,"Contoso Phone with 13-Number Memory (210) M301 White",Contoso,"Akwa Ibom",152.91,52.48
+550,8/18/2014,9.430584021,22.99,10,94.30584021,"Contoso Expandable Cordless Phone System M008 White",Contoso,Delta,229.90,135.59
+2845,7/14/2012,4.393063324,22.99,9,39.53756992,"Contoso Expandable Cordless Phone System M008 White",Contoso,Niger,206.91,167.37
+2875,07-10-13,12.12677694,22.99,9,109.1409925,"Contoso Expandable Cordless Phone System M008 White",Contoso,Delta,206.91,97.77
+861,04-12-13,812.5556078,1299,20,16251.11216,"Adventure Works Laptop19W X1980 Red","Adventure Works",Lagos,25980.00,9728.89
+976,11/20/2012,789.3695386,1299,13,10261.804,"Adventure Works Laptop19W X1980 Red","Adventure Works",Benue,16887.00,6625.20
+1163,09-09-13,807.4716501,1299,10,8074.716501,"Adventure Works Laptop19W X1980 Red","Adventure Works",Rivers,12990.00,4915.28
+1674,5/18/2013,763.2374961,1299,10,7632.374961,"Adventure Works Laptop19W X1980 Red","Adventure Works",Kano,12990.00,5357.63
+2039,6/15/2012,0.836623819,699,24,20.07897167,"Adventure Works Laptop15 M1501 Red","Adventure Works",Kwara,16776.00,16755.92
+1739,10-06-13,186.1062766,599,13,2419.381595,"Adventure Works Laptop16 M1601 Red","Adventure Works",Plateau,7787.00,5367.62
+2495,11/14/2012,347.9035327,599,13,4522.745925,"Adventure Works Laptop16 M1601 Red","Adventure Works",Yobe,7787.00,3264.25
+2696,9/24/2014,2.78091109,599,10,27.8091109,"Adventure Works Laptop16 M1601 Red","Adventure Works",Kano,5990.00,5962.19
+3014,04-03-12,405.5606914,599,12,4866.728297,"Adventure Works Laptop16 M1601 Red","Adventure Works",Plateau,7188.00,2321.27
+547,1/31/2014,347.0747497,758,18,6247.345494,"Adventure Works Laptop15.4W M1548 Red","Adventure Works",Lagos,13644.00,7396.65
+2042,10/25/2013,487.8655608,758,13,6342.252291,"Adventure Works Laptop15.4W M1548 Red","Adventure Works","Zamfara ",9854.00,3511.75
+7652,3/31/2012,101.9629528,326,5,509.8147641,"Adventure Works Laptop8.9 E0890 Red","Adventure Works",Adamawa,1630.00,1120.19
+93,09-09-14,176.1312687,326,32,5636.200598,"Adventure Works Laptop8.9 E0890 Red","Adventure Works",Sokoto,10432.00,4795.80
+513,1/22/2012,568.34577,1299,9,5115.11193,"Adventure Works Laptop19W X1980 Blue","Adventure Works",Kaduna,11691.00,6575.89
+1971,11/14/2013,201.7428446,1299,13,2622.65698,"Adventure Works Laptop19W X1980 Blue","Adventure Works",Taraba,16887.00,14264.34
+1652,1/31/2013,101.9285073,382.95,18,1834.713132,"Adventure Works Laptop12 M1201 Blue","Adventure Works",Plateau,6893.10,5058.39
+473,6/16/2014,76.8922574,382.95,12,922.7070889,"Adventure Works Laptop12 M1201 Blue","Adventure Works",Yobe,4595.40,3672.69
+1269,4/16/2012,260.7730398,382.95,12,3129.276477,"Adventure Works Laptop12 M1201 Blue","Adventure Works",Oyo,4595.40,1466.12
+1615,03-03-14,262.945799,382.95,9,2366.512191,"Adventure Works Laptop12 M1201 Blue","Adventure Works",Ebonyi,3446.55,1080.04
+1850,11/18/2014,201.0700155,382.95,13,2613.910201,"Adventure Works Laptop12 M1201 Blue","Adventure Works","Akwa Ibom",4978.35,2364.44
+2225,7/15/2014,111.6048723,382.95,10,1116.048723,"Adventure Works Laptop12 M1201 Blue","Adventure Works",Ogun,3829.50,2713.45
+2925,03-10-12,140.9283428,382.95,10,1409.283428,"Adventure Works Laptop12 M1201 Blue","Adventure Works",FCT,3829.50,2420.22
+3227,12/25/2012,148.0365998,382.95,9,1332.329398,"Adventure Works Laptop12 M1201 Blue","Adventure Works",Yobe,3446.55,2114.22
+1988,6/19/2014,16.67301675,21.57,24,400.1524019,"Adventure Works Laptop16 M1601 Blue","Adventure Works",Katsina,517.68,117.53
+2629,3/15/2013,11.0597826,21.57,24,265.4347825,"Adventure Works Laptop16 M1601 Blue","Adventure Works",Ekiti,517.68,252.25
+2974,4/20/2013,797.0299929,1299,20,15940.59986,"WWI Laptop19W X0196 Black","Wide World Importers",Jigawa,25980.00,10039.40
+110,7/27/2013,329.3394949,699,9,2964.055454,"WWI Laptop15 M0150 Black","Wide World Importers",Gombe,6291.00,3326.94
+182,10/15/2012,139.8765994,699,8,1119.012796,"WWI Laptop15 M0150 Black","Wide World Importers",Jigawa,5592.00,4472.99
+357,7/21/2014,116.7234836,699,9,1050.511352,"WWI Laptop15 M0150 Black","Wide World Importers",Bayelsa,6291.00,5240.49
+1858,07-06-12,226.7953441,699,12,2721.544129,"WWI Laptop15 M0150 Black","Wide World Importers",Nasarawa,8388.00,5666.46
+2238,11/27/2014,45.72460109,699,13,594.4198142,"WWI Laptop15 M0150 Black","Wide World Importers",Edo,9087.00,8492.58
+7475,11/29/2012,265.1860591,599,26,6894.837538,"WWI Laptop16 M0160 Black","Wide World Importers",Abia,15574.00,8679.16
+475,11/27/2014,28.15167457,599,13,365.9717694,"WWI Laptop16 M0160 Black","Wide World Importers",Imo,7787.00,7421.03
+1153,1/24/2013,512.0084938,599,9,4608.076445,"WWI Laptop16 M0160 Black","Wide World Importers",Rivers,5391.00,782.92
+1456,3/23/2013,307.4346234,326,10,3074.346234,"WWI Laptop8.9 E0089 Black","Wide World Importers",Kogi,3260.00,185.65
+1340,10/31/2014,418.2393549,1299,6,2509.436129,"WWI Laptop19W X0196 White","Wide World Importers",Kwara,7794.00,5284.56
+7623,9/22/2014,228.1635047,699,10,2281.635047,"WWI Laptop15 M0150 White","Wide World Importers",Osun,6990.00,4708.36
+1309,2/16/2014,274.0621527,699,12,3288.745833,"WWI Laptop15 M0150 White","Wide World Importers",Kwara,8388.00,5099.25
+2709,02-04-14,241.7911553,699,18,4352.240796,"WWI Laptop15 M0150 White","Wide World Importers",Enugu,12582.00,8229.76
+150,10-10-13,155.4574015,382.95,13,2020.946219,"WWI Laptop12 M0120 White","Wide World Importers",Benue,4978.35,2957.40
+312,5/31/2012,61.59865305,382.95,24,1478.367673,"WWI Laptop12 M0120 White","Wide World Importers",Bayelsa,9190.80,7712.43
+2229,02-07-12,264.607297,599,9,2381.465673,"WWI Laptop16 M0160 White","Wide World Importers",Kwara,5391.00,3009.53
+7691,11-09-14,331.3375705,758,13,4307.388416,"WWI Laptop15.4W M0156 White","Wide World Importers",Ogun,9854.00,5546.61
+789,7/30/2014,34.12305895,758,12,409.4767074,"WWI Laptop15.4W M0156 White","Wide World Importers","Zamfara ",9096.00,8686.52
+873,6/14/2014,58.30042546,758,12,699.6051055,"WWI Laptop15.4W M0156 White","Wide World Importers",Taraba,9096.00,8396.39
+1226,06-09-14,147.2328715,758,24,3533.588916,"WWI Laptop15.4W M0156 White","Wide World Importers","Zamfara ",18192.00,14658.41
+1749,01-04-13,219.4355523,326,13,2852.66218,"WWI Laptop8.9 E0089 White","Wide World Importers",Kebbi,4238.00,1385.34
+1218,5/15/2013,269.9871175,1299,24,6479.69082,"WWI Laptop19W X0196 Blue","Wide World Importers",Jigawa,31176.00,24696.31
+2900,3/18/2013,114.4969001,1299,10,1144.969001,"WWI Laptop19W X0196 Blue","Wide World Importers",Gombe,12990.00,11845.03
+2169,5/24/2013,18.90985704,255,10,189.0985704,"Proseware Laptop15 M510 Black",Proseware,Borno,2550.00,2360.90
+3425,1/14/2013,22.43657446,382.95,9,201.9291702,"Proseware Laptop12 M210 Black",Proseware,Benue,3446.55,3244.62
+7300,8/25/2013,61.33146149,599,12,735.9775379,"Proseware Laptop16 M610 Black",Proseware,Ogun,7188.00,6452.02
+7330,02-02-14,1.264691832,599,9,11.38222649,"Proseware Laptop16 M610 Black",Proseware,Bauchi,5391.00,5379.62
+470,11/26/2013,122.7005573,599,13,1595.107244,"Proseware Laptop16 M610 Black",Proseware,Sokoto,7787.00,6191.89
+1107,12/24/2013,261.2482806,599,13,3396.227648,"Proseware Laptop16 M610 Black",Proseware,Adamawa,7787.00,4390.77
+2657,4/29/2013,306.7767322,599,10,3067.767322,"Proseware Laptop16 M610 Black",Proseware,Katsina,5990.00,2922.23
+289,4/23/2012,262.4141404,758,10,2624.141404,"Proseware Laptop15.4W M518 Black",Proseware,Kaduna,7580.00,4955.86
+933,11/24/2012,378.6511602,1299,13,4922.465083,"Proseware Laptop19W X910 White",Proseware,Jigawa,16887.00,11964.53
+7238,12-12-13,519.263415,599,9,4673.370735,"Proseware Laptop16 M610 White",Proseware,Osun,5391.00,717.63
+2305,04-10-12,24.18888723,599,10,241.8888723,"Proseware Laptop16 M610 White",Proseware,Lagos,5990.00,5748.11
+2884,10-12-13,40.5666079,599,8,324.5328632,"Proseware Laptop16 M610 White",Proseware,Bayelsa,4792.00,4467.47
+2195,12/13/2013,59.66167661,77.68,18,1073.910179,"Proseware Laptop15.4W M518 White",Proseware,Abia,1398.24,324.33
+7722,4/17/2014,233.5663887,326,20,4671.327774,"Proseware Laptop8.9 E089 White",Proseware,Nasarawa,6520.00,1848.67
+1677,01-02-13,308.9814841,326,8,2471.851873,"Proseware Laptop8.9 E089 White",Proseware,Yobe,2608.00,136.15
+2029,8/15/2012,259.1203168,326,6,1554.721901,"Proseware Laptop8.9 E089 White",Proseware,FCT,1956.00,401.28
+2804,3/31/2012,12.59146227,326,6,75.54877364,"Proseware Laptop8.9 E089 White",Proseware,Benue,1956.00,1880.45
+3092,12/21/2013,331.9434456,326,16,5311.095129,"Proseware Laptop8.9 E089 White",Proseware,Ogun,5216.00,-95.10
+1283,12/18/2013,218.148599,969,9,1963.337391,"Adventure Works Desktop PC2.33 XD233 Silver","Adventure Works",Enugu,8721.00,6757.66
+1875,05-02-14,380.3188891,969,10,3803.188891,"Adventure Works Desktop PC2.33 XD233 Silver","Adventure Works",Jigawa,9690.00,5886.81
+486,09-06-12,192.4022551,269.95,12,2308.827061,"Adventure Works Desktop PC1.60 ED160 Silver","Adventure Works",Nasarawa,3239.40,930.57
+850,1/16/2012,73.85839406,269.95,12,886.3007287,"Adventure Works Desktop PC1.60 ED160 Silver","Adventure Works",Rivers,3239.40,2353.10
+1929,12/25/2011,69.77821205,269.95,12,837.3385446,"Adventure Works Desktop PC1.60 ED160 Silver","Adventure Works",Kogi,3239.40,2402.06
+2228,12/18/2011,8.399853846,21.57,4,33.59941538,"Adventure Works Desktop PC1.80 ED180 Silver","Adventure Works",Lagos,86.28,52.68
+90,11-02-14,316.9938057,499.9,13,4120.919474,"Adventure Works Desktop PC1.80 ED182 Silver","Adventure Works",Nasarawa,6498.70,2377.78
+911,3/18/2012,118.3093403,499.9,27,3194.352189,"Adventure Works Desktop PC1.80 ED182 Silver","Adventure Works",Imo,13497.30,10302.95
+1335,1/21/2012,380.2893918,499.9,27,10267.81358,"Adventure Works Desktop PC1.80 ED182 Silver","Adventure Works",Imo,13497.30,3229.49
+366,1/22/2012,363.8804666,469,27,9824.772599,"Adventure Works Desktop PC3.0 MS300 Silver","Adventure Works",Kebbi,12663.00,2838.23
+832,8/26/2014,153.1506463,469,12,1837.807756,"Adventure Works Desktop PC3.0 MS300 Silver","Adventure Works",Ondo,5628.00,3790.19
+1293,11/23/2012,266.8970961,469,39,10408.98675,"Adventure Works Desktop PC3.0 MS300 Silver","Adventure Works",Anambra,18291.00,7882.01
+1711,7/31/2014,179.7752424,969,6,1078.651455,"Adventure Works Desktop PC2.33 XD233 Black","Adventure Works",Yobe,5814.00,4735.35
+899,2/21/2013,449.220133,599,18,8085.962394,"Adventure Works Desktop PC2.30 MD230 Black","Adventure Works","Zamfara ",10782.00,2696.04
+1792,5/26/2014,546.4697012,599,12,6557.636415,"Adventure Works Desktop PC2.30 MD230 Black","Adventure Works",Abia,7188.00,630.36
+956,7/18/2014,166.8943532,269.95,24,4005.464477,"Adventure Works Desktop PC1.60 ED160 Black","Adventure Works",Niger,6478.80,2473.34
+2107,1/18/2013,91.74450224,269.95,24,2201.868054,"Adventure Works Desktop PC1.60 ED160 Black","Adventure Works",Yobe,6478.80,4276.93
+2987,08-07-12,129.3096182,369,36,4655.146257,"Adventure Works Desktop PC1.80 ED180 Black","Adventure Works",Adamawa,13284.00,8628.85
+1988,6/19/2014,16.67301675,21.57,24,400.1524019,"Adventure Works Desktop PC1.80 ED182 Black","Adventure Works",Katsina,517.68,117.53
+2629,3/15/2013,11.0597826,21.57,24,265.4347825,"Adventure Works Desktop PC1.80 ED182 Black","Adventure Works",Ekiti,517.68,252.25
+188,10/23/2012,225.4322417,469,39,8791.857425,"Adventure Works Desktop PC3.0 MS300 Black","Adventure Works",Rivers,18291.00,9499.14
+877,1/29/2014,21.90995207,469,18,394.3791372,"Adventure Works Desktop PC3.0 MS300 Black","Adventure Works",Oyo,8442.00,8047.62
+1028,4/17/2013,183.639207,469,20,3672.78414,"Adventure Works Desktop PC3.0 MS300 Black","Adventure Works",Bauchi,9380.00,5707.22
+3102,12/24/2012,233.9912754,469,26,6083.773161,"Adventure Works Desktop PC3.0 MS300 Black","Adventure Works",Nasarawa,12194.00,6110.23
+3298,06-02-12,112.7722684,469,30,3383.168052,"Adventure Works Desktop PC3.0 MS300 Black","Adventure Works",Imo,14070.00,10686.83
+7461,2/18/2013,466.4693862,599.9,48,22390.53054,"Adventure Works Desktop PC2.30 MD230 Brown","Adventure Works",Kogi,28795.20,6404.67
+2577,1/21/2013,271.6211677,269.95,18,4889.181018,"Adventure Works Desktop PC1.60 ED160 Brown","Adventure Works",Osun,4859.10,-30.08
+2778,1/16/2014,226.1905719,269.95,18,4071.430295,"Adventure Works Desktop PC1.60 ED160 Brown","Adventure Works",Kebbi,4859.10,787.67
+3000,05-06-13,17.92060375,269.95,40,716.8241499,"Adventure Works Desktop PC1.60 ED160 Brown","Adventure Works",Kogi,10798.00,10081.18
+1944,07-02-12,11.92253442,369,36,429.211239,"Adventure Works Desktop PC1.80 ED180 Brown","Adventure Works",Lagos,13284.00,12854.79
+7632,01-02-12,162.1497686,269.95,12,1945.797223,"Adventure Works Desktop PC1.60 ED160 White","Adventure Works",Bauchi,3239.40,1293.60
+1393,9/21/2013,78.08050727,269.95,20,1561.610145,"Adventure Works Desktop PC1.60 ED160 White","Adventure Works",FCT,5399.00,3837.39
+572,8/19/2014,196.0723411,369,10,1960.723411,"Adventure Works Desktop PC1.80 ED180 White","Adventure Works",Yobe,3690.00,1729.28
+1955,3/27/2012,35.63010246,369,36,1282.683688,"Adventure Works Desktop PC1.80 ED180 White","Adventure Works",Katsina,13284.00,12001.32
+1962,4/13/2014,121.8747987,369,10,1218.747987,"Adventure Works Desktop PC1.80 ED180 White","Adventure Works",Katsina,3690.00,2471.25
+2918,12/19/2011,343.4924117,499.9,24,8243.817881,"Adventure Works Desktop PC1.80 ED182 White","Adventure Works",Kebbi,11997.60,3753.78
+647,10/17/2013,252.1511239,559,16,4034.417982,"WWI Desktop PC2.30 M2300 Brown","Wide World Importers",Kebbi,8944.00,4909.58
+2448,11-09-13,412.7992967,559,26,10732.78172,"WWI Desktop PC2.30 M2300 Brown","Wide World Importers",Sokoto,14534.00,3801.22
+894,06-01-12,42.29070022,219.95,18,761.232604,"WWI Desktop PC1.60 E1600 Silver","Wide World Importers",Taraba,3959.10,3197.87
+3212,10/27/2012,186.2488753,219.95,18,3352.479756,"WWI Desktop PC1.60 E1600 Silver","Wide World Importers",FCT,3959.10,606.62
+3358,08-07-13,150.8876908,219.95,24,3621.304579,"WWI Desktop PC1.60 E1600 Silver","Wide World Importers",Plateau,5278.80,1657.50
+1063,10-04-12,37.72195236,229.9,15,565.8292854,"WWI Desktop PC1.80 E1800 Brown","Wide World Importers",Osun,3448.50,2882.67
+2014,4/27/2014,231.16654,229.9,20,4623.3308,"WWI Desktop PC1.80 E1800 Brown","Wide World Importers",Bayelsa,4598.00,-25.33
+3329,6/23/2012,172.0624447,229.9,18,3097.124005,"WWI Desktop PC1.80 E1800 Brown","Wide World Importers",Bauchi,4138.20,1041.08
+1857,5/17/2014,167.8955973,559,10,1678.955973,"WWI Desktop PC2.30 M2300 Black","Wide World Importers",Borno,5590.00,3911.04
+2299,12/14/2012,269.8664135,559,18,4857.595444,"WWI Desktop PC2.30 M2300 Black","Wide World Importers",FCT,10062.00,5204.40
+65,7/21/2012,115.5727295,219.95,18,2080.309131,"WWI Desktop PC1.60 E1600 Black","Wide World Importers",Kano,3959.10,1878.79
+308,06-12-13,54.2856037,219.95,40,2171.424148,"WWI Desktop PC1.60 E1600 Black","Wide World Importers",Bauchi,8798.00,6626.58
+1592,2/23/2012,36.438326,219.95,24,874.519824,"WWI Desktop PC1.60 E1600 Black","Wide World Importers",Oyo,5278.80,4404.28
+1741,1/28/2012,167.988241,219.95,12,2015.858892,"WWI Desktop PC1.60 E1600 Black","Wide World Importers",Taraba,2639.40,623.54
+7490,05-03-12,112.8551287,229.9,30,3385.653862,"WWI Desktop PC1.80 E1800 Black","Wide World Importers",Bauchi,6897.00,3511.35
+1395,9/21/2014,182.1683953,229.9,20,3643.367906,"WWI Desktop PC1.80 E1800 Black","Wide World Importers",Borno,4598.00,954.63
+2394,12/25/2013,12.18642001,349,9,109.6777801,"WWI Desktop PC3.0 M0300 Black","Wide World Importers",Borno,3141.00,3031.32
+874,7/22/2014,351.7098663,919,6,2110.259198,"WWI Desktop PC2.33 X2330 Brown","Wide World Importers","Akwa Ibom",5514.00,3403.74
+7588,05-05-12,37.01227246,219.95,15,555.184087,"WWI Desktop PC1.60 E1600 Red","Wide World Importers",FCT,3299.25,2744.07
+966,12/16/2011,76.71032147,219.95,12,920.5238576,"WWI Desktop PC1.60 E1600 Red","Wide World Importers",Bauchi,2639.40,1718.88
+2643,07-04-12,83.03170954,219.95,18,1494.570772,"WWI Desktop PC1.60 E1600 Red","Wide World Importers",Imo,3959.10,2464.53
+1347,04-02-14,121.0670735,229.9,20,2421.34147,"WWI Desktop PC1.80 E1800 Silver","Wide World Importers",Nasarawa,4598.00,2176.66
+7342,10/18/2013,222.8137046,219.95,26,5793.156321,"WWI Desktop PC1.60 E1600 White","Wide World Importers",Oyo,5718.70,-74.46
+1470,01-05-12,179.6824728,219.95,12,2156.189674,"WWI Desktop PC1.60 E1600 White","Wide World Importers",Yobe,2639.40,483.21
+3182,10/29/2012,52.28181753,219.95,12,627.3818104,"WWI Desktop PC1.60 E1600 White","Wide World Importers",Kaduna,2639.40,2012.02
+3248,4/18/2013,105.1724844,219.95,20,2103.449689,"WWI Desktop PC1.60 E1600 White","Wide World Importers",Yobe,4399.00,2295.55
+586,5/23/2014,271.6454226,269.9,40,10865.8169,"WWI Desktop PC1.80 E1801 White","Wide World Importers",Delta,10796.00,-69.82
+2598,11/13/2014,99.08062598,619,26,2576.096275,"Proseware LCD22 M2000 Black",Proseware,Bayelsa,16094.00,13517.90
+2170,3/22/2014,173.4906838,199.9,10,1734.906838,"Proseware LCD19 E1000 Black",Proseware,Gombe,1999.00,264.09
+7397,4/21/2012,79.84546528,179,10,798.4546528,"Proseware LCD19W M100 Black",Proseware,Osun,1790.00,991.55
+630,07-01-13,81.88761489,99,12,982.6513786,"Proseware LCD17 E200 Black",Proseware,Ekiti,1188.00,205.35
+2443,12/22/2013,77.09655042,99,78,6013.530933,"Proseware LCD17 E200 Black",Proseware,Enugu,7722.00,1708.47
+2809,09-04-12,57.4653508,99,5,287.326754,"Proseware LCD17 E200 Black",Proseware,Osun,495.00,207.67
+1981,03-01-12,8.707666898,129,4,34.83066759,"Proseware LCD17W E202 Black",Proseware,Nasarawa,516.00,481.17
+2828,01-03-13,67.92702946,99,9,611.3432651,"Proseware LCD15 E103 Black",Proseware,Jigawa,891.00,279.66
+666,9/25/2014,38.45260364,59,16,615.2416582,"Proseware CRT17 E104 Black",Proseware,Taraba,944.00,328.76
+3384,1/27/2012,58.56830812,59,4,234.2732325,"Proseware CRT17 E104 Black",Proseware,Edo,236.00,1.73
+2170,3/22/2014,173.4906838,199.9,10,1734.906838,"Proseware CRT15 E10 Black",Proseware,Gombe,1999.00,264.09
+7236,11-04-13,171.5686481,279,13,2230.392425,"Proseware LCD20W M230 White",Proseware,Edo,3627.00,1396.61
+7527,12/27/2012,166.413874,279,9,1497.724866,"Proseware LCD20W M230 White",Proseware,Oyo,2511.00,1013.28
+7431,10/24/2013,31.23870987,139,16,499.8193578,"Proseware LCD19 E1000 White",Proseware,Ondo,2224.00,1724.18
+165,04-02-14,114.7157916,179,9,1032.442125,"Proseware LCD19W M100 White",Proseware,Jigawa,1611.00,578.56
+1466,4/29/2012,0.925486386,99,5,4.627431929,"Proseware LCD17 E200 White",Proseware,"Zamfara ",495.00,490.37
+3378,11/15/2013,28.54816478,99,13,371.1261421,"Proseware LCD15 E103 White",Proseware,Imo,1287.00,915.87
+2803,06-06-13,25.46965308,69,12,305.635837,"Proseware CRT19 E201 White",Proseware,Benue,828.00,522.36
+7552,5/18/2013,9.019593345,49,10,90.19593345,"Proseware CRT15 E10 White",Proseware,Kwara,490.00,399.80
+315,12/26/2011,38.65950457,49,4,154.6380183,"Proseware CRT15 E10 White",Proseware,FCT,196.00,41.36
+453,8/24/2013,5.332335146,49,9,47.99101632,"Proseware CRT15 E10 White",Proseware,Osun,441.00,393.01
+876,12/26/2011,2.454513973,49,16,39.27222357,"Proseware CRT15 E10 White",Proseware,Niger,784.00,744.73
+3094,3/20/2012,26.50595841,49,5,132.529792,"Proseware CRT15 E10 White",Proseware,Plateau,245.00,112.47
+502,06-04-13,401.9521127,679,10,4019.521127,"Adventure Works LCD22W M200 Black","Adventure Works",Borno,6790.00,2770.48
+2711,5/31/2012,141.3861251,139,5,706.9306253,"Adventure Works LCD19 E108 Black","Adventure Works",Adamawa,695.00,-11.93
+620,12/14/2013,61.55744484,179,9,554.0170035,"Adventure Works LCD19W M100 Black","Adventure Works",Ondo,1611.00,1056.98
+7450,03-06-12,95.66675215,129,4,382.6670086,"Adventure Works LCD17W E203 Black","Adventure Works",Adamawa,516.00,133.33
+2729,12/19/2011,66.74618366,129,4,266.9847346,"Adventure Works LCD17W E203 Black","Adventure Works","Akwa Ibom",516.00,249.02
+1891,8/16/2012,68.3663031,77.68,4,273.4652124,"Adventure Works LCD15 E100 Black","Adventure Works",Ekiti,310.72,37.25
+7375,4/13/2013,55.23762639,59,10,552.3762639,"Adventure Works CRT17 E105 Black","Adventure Works","Cross River",590.00,37.62
+112,9/21/2014,54.14528799,59,16,866.3246079,"Adventure Works CRT17 E105 Black","Adventure Works",Sokoto,944.00,77.68
+591,12/19/2012,11.93775825,59,9,107.4398242,"Adventure Works CRT17 E105 Black","Adventure Works",Ondo,531.00,423.56
+1893,6/30/2014,96.12144568,619,12,1153.457348,"Adventure Works LCD22 M200 White","Adventure Works",Kano,7428.00,6274.54
+3067,4/17/2013,294.3920885,619,10,2943.920885,"Adventure Works LCD22 M200 White","Adventure Works",Kebbi,6190.00,3246.08
+7520,7/14/2014,183.2858975,259,12,2199.43077,"Adventure Works LCD20 M210 White","Adventure Works",Delta,3108.00,908.57
+1796,10-08-13,202.631981,259,13,2634.215753,"Adventure Works LCD20 M210 White","Adventure Works",FCT,3367.00,732.78
+403,06-02-12,107.9108375,179,10,1079.108375,"Adventure Works LCD19W M100 White","Adventure Works",Enugu,1790.00,710.89
+2270,08-11-12,96.84856857,179,10,968.4856857,"Adventure Works LCD19W M100 White","Adventure Works",Ebonyi,1790.00,821.51
+7590,10-06-12,84.67354479,99,6,508.0412687,"Adventure Works LCD17 E200 White","Adventure Works",Kaduna,594.00,85.96
+3427,11/17/2012,81.42039018,99,6,488.5223411,"Adventure Works LCD17 E200 White","Adventure Works",Imo,594.00,105.48
+791,04-09-13,123.2295027,129,10,1232.295027,"Adventure Works LCD17W E203 White","Adventure Works",Ebonyi,1290.00,57.70
+2041,11-07-14,85.10261833,129,26,2212.668077,"Adventure Works LCD17W E203 White","Adventure Works",Kebbi,3354.00,1141.33
+2514,7/18/2012,90.67441564,129,6,544.0464938,"Adventure Works LCD17W E203 White","Adventure Works",FCT,774.00,229.95
+3252,07-12-12,4.860835848,129,6,29.16501509,"Adventure Works LCD17W E203 White","Adventure Works",Enugu,774.00,744.83
+253,11/27/2012,91.5638732,99,6,549.3832392,"Adventure Works LCD15 E100 White","Adventure Works",Delta,594.00,44.62
+443,04-01-12,23.51228335,99,5,117.5614167,"Adventure Works LCD15 E100 White","Adventure Works",Imo,495.00,377.44
+1399,07-08-12,13.63695161,99,5,68.18475806,"Adventure Works LCD15 E100 White","Adventure Works","Zamfara ",495.00,426.82
+683,7/18/2012,5.550597974,69,4,22.2023919,"Adventure Works CRT19 E10 White","Adventure Works","Cross River",276.00,253.80
+1967,5/30/2012,29.50424956,69,10,295.0424956,"Adventure Works CRT19 E10 White","Adventure Works",Nasarawa,690.00,394.96
+7331,12/28/2012,249.5458723,819,16,3992.733957,"WWI LCD24 X300 Black","Wide World Importers",Imo,13104.00,9111.27
+549,5/22/2013,210.2339429,819,10,2102.339429,"WWI LCD24 X300 Black","Wide World Importers",Kebbi,8190.00,6087.66
+592,12/27/2013,93.56787735,819,9,842.1108962,"WWI LCD24 X300 Black","Wide World Importers",Bayelsa,7371.00,6528.89
+1304,9/17/2012,270.5062044,819,8,2164.049635,"WWI LCD24 X300 Black","Wide World Importers",Ebonyi,6552.00,4387.95
+2904,10-04-13,56.1494058,819,10,561.494058,"WWI LCD24 X300 Black","Wide World Importers",Kano,8190.00,7628.51
+7684,10/20/2014,235.5365383,619,26,6123.949997,"WWI LCD22 M2002 Black","Wide World Importers",Plateau,16094.00,9970.05
+19,6/20/2013,374.352682,619,12,4492.232184,"WWI LCD22 M2002 Black","Wide World Importers",Borno,7428.00,2935.77
+558,05-11-14,338.3680456,619,10,3383.680456,"WWI LCD22 M2002 Black","Wide World Importers",Taraba,6190.00,2806.32
+7413,12/13/2013,171.0129459,679,13,2223.168296,"WWI LCD22W M2003 Black","Wide World Importers",Yobe,8827.00,6603.83
+529,11/19/2013,27.12721847,259,13,352.6538402,"WWI LCD20 M220 Black","Wide World Importers",Rivers,3367.00,3014.35
+2067,9/23/2014,40.24863996,259,10,402.4863996,"WWI LCD20 M220 Black","Wide World Importers",Bauchi,2590.00,2187.51
+2271,05-07-14,111.8991331,279,20,2237.982663,"WWI LCD20W M250 Black","Wide World Importers",Edo,5580.00,3342.02
+3259,2/18/2014,175.3637207,279,9,1578.273486,"WWI LCD20W M250 Black","Wide World Importers",Lagos,2511.00,932.73
+7655,10/31/2014,25.01444646,179,16,400.2311434,"WWI LCD19W M100 Black","Wide World Importers",Ekiti,2864.00,2463.77
+500,7/28/2012,78.92851328,179,9,710.3566195,"WWI LCD19W M100 Black","Wide World Importers",Oyo,1611.00,900.64
+3155,11-03-13,138.0643773,179,13,1794.836905,"WWI LCD19W M100 Black","Wide World Importers",Kebbi,2327.00,532.16
+2853,01-05-14,93.45396606,129,18,1682.171389,"WWI LCD17W E200 Black","Wide World Importers",Oyo,2322.00,639.83
+3350,3/30/2012,122.9737829,819,10,1229.737829,"WWI LCD24 X300 White","Wide World Importers",Nasarawa,8190.00,6960.26
+1700,11-07-14,262.541897,679,13,3413.044661,"WWI LCD22W M2003 White","Wide World Importers",Enugu,8827.00,5413.96
+2698,10/21/2014,226.1257129,279,13,2939.634268,"WWI LCD20W M250 White","Wide World Importers",FCT,3627.00,687.37
+7679,11/28/2014,5.492274847,179,13,71.39957301,"WWI LCD19W M100 White","Wide World Importers",FCT,2327.00,2255.60
+949,9/30/2014,44.3492508,179,8,354.7940064,"WWI LCD19W M100 White","Wide World Importers","Akwa Ibom",1432.00,1077.21
+3191,04-08-14,121.6790069,179,10,1216.790069,"WWI LCD19W M100 White","Wide World Importers",Ondo,1790.00,573.21
+648,10/29/2013,13.63355663,99,24,327.2053592,"WWI LCD17 E205 White","Wide World Importers",Bayelsa,2376.00,2048.79
+2757,07-06-14,61.60209356,99,24,1478.450246,"WWI LCD17 E205 White","Wide World Importers","Cross River",2376.00,897.55
+2385,07-01-12,90.91712503,129,15,1363.756876,"WWI LCD17W E200 White","Wide World Importers",Gombe,1935.00,571.24
+7574,10-04-12,1424.458072,2499,10,14244.58072,"Proseware Projector 1080p DLP86 Black",Proseware,Osun,24990.00,10745.42
+2116,4/29/2012,703.5899751,2499,10,7035.899751,"Proseware Projector 1080p DLP86 Black",Proseware,Kebbi,24990.00,17954.10
+519,6/18/2012,523.9906905,699,12,6287.888287,"Proseware Projector 720p LCD56 Black",Proseware,Oyo,8388.00,2100.11
+2243,09-02-13,315.8975734,999,10,3158.975734,"Proseware Projector 720p DLP56 Black",Proseware,Jigawa,9990.00,6831.02
+12,04-02-12,166.5862262,229,10,1665.862262,"Proseware Projector 480p LCD12 Black",Proseware,Katsina,2290.00,624.14
+1599,10/18/2012,41.10941442,229,13,534.4223874,"Proseware Projector 480p LCD12 Black",Proseware,Kogi,2977.00,2442.58
+2329,10/16/2014,21.50801553,229,13,279.6042019,"Proseware Projector 480p LCD12 Black",Proseware,Ondo,2977.00,2697.40
+2786,01-01-12,43.15904263,229,8,345.272341,"Proseware Projector 480p LCD12 Black",Proseware,Kaduna,1832.00,1486.73
+56,11/30/2012,112.7621577,499,8,902.0972617,"Proseware Projector 480p DLP12 Black",Proseware,"Zamfara ",3992.00,3089.90
+580,6/29/2014,191.3231507,499,12,2295.877808,"Proseware Projector 480p DLP12 Black",Proseware,Kano,5988.00,3692.12
+1877,9/29/2012,333.8311384,499,16,5341.298215,"Proseware Projector 480p DLP12 Black",Proseware,Plateau,7984.00,2642.70
+2341,10/30/2012,495.0685046,499,8,3960.548037,"Proseware Projector 480p DLP12 Black",Proseware,Imo,3992.00,31.45
+3193,8/28/2013,438.4877568,499,10,4384.877568,"Proseware Projector 480p DLP12 Black",Proseware,Bauchi,4990.00,605.12
+1274,5/21/2014,211.9702344,459,12,2543.642813,"Proseware Screen 125in X1609 Black",Proseware,Nasarawa,5508.00,2964.36
+7533,6/26/2012,115.9054531,139,6,695.4327189,"Proseware Screen 85in E1010 Black",Proseware,Ogun,834.00,138.57
+2532,3/16/2013,134.1419983,139,10,1341.419983,"Proseware Screen 85in E1010 Black",Proseware,Delta,1390.00,48.58
+1891,8/16/2012,68.3663031,77.68,4,273.4652124,"Proseware Screen 80in E1010 Black",Proseware,Ekiti,310.72,37.25
+7319,2/21/2014,127.927705,2295,9,1151.349345,"Proseware Projector 1080p LCD86 White",Proseware,Oyo,20655.00,19503.65
+414,4/17/2013,1492.678359,2499,10,14926.78359,"Proseware Projector 1080p DLP86 White",Proseware,Borno,24990.00,10063.22
+1992,12-10-12,914.0012068,2499,13,11882.01569,"Proseware Projector 1080p DLP86 White",Proseware,Yobe,32487.00,20604.98
+3078,03-02-12,880.6733015,2499,9,7926.059713,"Proseware Projector 1080p DLP86 White",Proseware,Nasarawa,22491.00,14564.94
+849,7/23/2014,394.5959241,499,10,3945.959241,"Proseware Projector 480p DLP12 White",Proseware,"Cross River",4990.00,1044.04
+1022,05-04-14,436.7594749,499,10,4367.594749,"Proseware Projector 480p DLP12 White",Proseware,Abia,4990.00,622.41
+3117,11-06-12,113.5236093,499,8,908.1888745,"Proseware Projector 480p DLP12 White",Proseware,Bayelsa,3992.00,3083.81
+1930,1/28/2012,109.1790961,190,6,655.0745768,"Proseware Screen 100in M1609 White",Proseware,Niger,1140.00,484.93
+1961,06-06-12,34.18329208,190,6,205.0997525,"Proseware Screen 100in M1609 White",Proseware,"Zamfara ",1140.00,934.90
+2064,10/26/2012,68.48884306,190,6,410.9330584,"Proseware Screen 100in M1609 White",Proseware,Kano,1140.00,729.07
+2370,8/24/2014,25.75732528,190,24,618.1758068,"Proseware Screen 100in M1609 White",Proseware,Ebonyi,4560.00,3941.82
+3190,10-02-12,86.49433923,190,5,432.4716961,"Proseware Screen 100in M1609 White",Proseware,Yobe,950.00,517.53
+7305,3/19/2013,42.99845838,139,9,386.9861255,"Proseware Screen 85in E1010 White",Proseware,Enugu,1251.00,864.01
+3265,8/23/2013,23.42235345,139,10,234.2235345,"Proseware Screen 85in E1010 White",Proseware,Kebbi,1390.00,1155.78
+7707,08-08-14,71.04649022,109,48,3410.231531,"Proseware Screen 80in E1010 White",Proseware,FCT,5232.00,1821.77
+1353,6/19/2012,1247.525474,2295,12,14970.30569,"Proseware Projector 1080p LCD86 Silver",Proseware,Imo,27540.00,12569.69
+2477,6/17/2012,930.8781695,2295,12,11170.53803,"Proseware Projector 1080p LCD86 Silver",Proseware,Adamawa,27540.00,16369.46
+49,12/17/2011,1347.512769,2499,9,12127.61492,"Proseware Projector 1080p DLP86 Silver",Proseware,Benue,22491.00,10363.39
+1855,6/26/2012,1252.519428,2499,12,15030.23313,"Proseware Projector 1080p DLP86 Silver",Proseware,Imo,29988.00,14957.77
+2914,02-04-12,8.749594389,2499,12,104.9951327,"Proseware Projector 1080p DLP86 Silver",Proseware,Borno,29988.00,29883.00
+203,7/17/2012,386.3446332,699,9,3477.101699,"Proseware Projector 720p LCD56 Silver",Proseware,Bayelsa,6291.00,2813.90
+675,8/23/2014,159.6340776,229,12,1915.608931,"Proseware Projector 480p LCD12 Silver",Proseware,Kwara,2748.00,832.39
+1997,12/27/2011,205.7377272,229,9,1851.639545,"Proseware Projector 480p LCD12 Silver",Proseware,"Akwa Ibom",2061.00,209.36
+3192,8/25/2014,187.0687079,229,12,2244.824495,"Proseware Projector 480p LCD12 Silver",Proseware,Ogun,2748.00,503.18
+3335,01-07-12,35.40661241,229,24,849.7586978,"Proseware Projector 480p LCD12 Silver",Proseware,"Zamfara ",5496.00,4646.24
+2703,2/18/2014,45.97882871,499,9,413.8094584,"Proseware Projector 480p DLP12 Silver",Proseware,Plateau,4491.00,4077.19
+24,02-07-13,89.3490641,190,9,804.1415769,"Proseware Screen 100in M1609 Silver",Proseware,Kwara,1710.00,905.86
+1388,05-02-12,24.56433315,190,10,245.6433315,"Proseware Screen 100in M1609 Silver",Proseware,Adamawa,1900.00,1654.36
+1892,11/14/2012,3.335839458,190,6,20.01503675,"Proseware Screen 100in M1609 Silver",Proseware,Jigawa,1140.00,1119.98
+2591,03-02-14,71.00988057,95.95,9,639.0889252,"Proseware Screen 85in E1010 Silver",Proseware,Imo,863.55,224.46
+484,07-06-12,9.699464706,109,6,58.19678824,"Proseware Screen 80in E1010 Silver",Proseware,Niger,654.00,595.80
+3044,02-04-13,110.5087313,109,9,994.5785819,"Proseware Screen 80in E1010 Silver",Proseware,FCT,981.00,-13.58
+3263,05-08-14,62.58337854,109,24,1502.001085,"Proseware Screen 80in E1010 Silver",Proseware,Kaduna,2616.00,1114.00
+964,09-07-13,1071.575113,2295,10,10715.75113,"Contoso Projector 1080p X980 Black",Contoso,Jigawa,22950.00,12234.25
+2568,1/28/2014,1314.0432,2295,9,11826.3888,"Contoso Projector 1080p X980 Black",Contoso,Taraba,20655.00,8828.61
+2743,3/14/2012,250.7853011,2295,10,2507.853011,"Contoso Projector 1080p X980 Black",Contoso,Delta,22950.00,20442.15
+468,10/21/2014,643.3803925,999,13,8363.945102,"Contoso Projector 720p M621 Black",Contoso,Ebonyi,12987.00,4623.05
+726,11-01-12,17.9142323,229,13,232.8850199,"Contoso Projector 480p M480 Black",Contoso,Delta,2977.00,2744.11
+896,4/24/2014,6.417240175,229,10,64.17240175,"Contoso Projector 480p M480 Black",Contoso,Ogun,2290.00,2225.83
+1776,2/24/2012,66.12849227,229,9,595.1564304,"Contoso Projector 480p M480 Black",Contoso,Rivers,2061.00,1465.84
+3381,4/22/2013,119.1114921,229,10,1191.114921,"Contoso Projector 480p M480 Black",Contoso,Katsina,2290.00,1098.89
+2500,2/13/2013,89.23645665,190,9,803.1281098,"Contoso Screen 100in E010 Black",Contoso,Ekiti,1710.00,906.87
+2847,02-01-12,47.07426136,190,4,188.2970455,"Contoso Screen 100in E010 Black",Contoso,Delta,760.00,571.70
+2071,5/26/2012,53.3726413,139,5,266.8632065,"Contoso Screen 85in E085 Black",Contoso,Rivers,695.00,428.14
+2072,9/25/2012,127.8160398,139,5,639.0801992,"Contoso Screen 85in E085 Black",Contoso,Bauchi,695.00,55.92
+82,6/13/2012,864.1620285,999,12,10369.94434,"Contoso Projector 720p M621 White",Contoso,Katsina,11988.00,1618.06
+1691,9/22/2013,613.1817491,999,8,4905.453993,"Contoso Projector 720p M621 White",Contoso,Osun,7992.00,3086.55
+863,1/24/2012,128.4196863,229,36,4623.108707,"Contoso Projector 480p M480 White",Contoso,Kwara,8244.00,3620.89
+2827,12/28/2011,221.5936194,229,36,7977.3703,"Contoso Projector 480p M480 White",Contoso,Delta,8244.00,266.63
+3016,12/23/2013,242.5333578,459,9,2182.80022,"Contoso Screen 125in M250 White",Contoso,Ondo,4131.00,1948.20
+2928,9/28/2013,160.3191554,251,8,1282.553243,"Contoso Screen 106in M060 White",Contoso,Taraba,2008.00,725.45
+195,12-06-13,95.37689829,139,26,2479.799356,"Contoso Screen 85in E085 White",Contoso,"Cross River",3614.00,1134.20
+360,9/26/2014,23.82617054,139,20,476.5234107,"Contoso Screen 85in E085 White",Contoso,Plateau,2780.00,2303.48
+1272,12/26/2011,115.7885344,139,4,463.1541375,"Contoso Screen 85in E085 White",Contoso,Ekiti,556.00,92.85
+609,12/20/2011,3.464094538,109,12,41.56913445,"Contoso Screen 80in E080 White",Contoso,Lagos,1308.00,1266.43
+2311,8/25/2012,82.67872783,109,6,496.072367,"Contoso Screen 80in E080 White",Contoso,Ogun,654.00,157.93
+2363,2/17/2014,6.921894026,109,18,124.5940925,"Contoso Screen 80in E080 White",Contoso,Benue,1962.00,1837.41
+903,04-11-14,61.27277236,2295,6,367.6366342,"Contoso Projector 1080p X980 Silver",Contoso,Kogi,13770.00,13402.36
+2628,07-04-12,436.277376,2295,12,5235.328512,"Contoso Projector 1080p X980 Silver",Contoso,Jigawa,27540.00,22304.67
+3313,1/20/2013,1063.726036,2295,24,25529.42487,"Contoso Projector 1080p X980 Silver",Contoso,Rivers,55080.00,29550.58
+2310,5/13/2012,731.7175865,999,10,7317.175865,"Contoso Projector 720p M621 Silver",Contoso,Niger,9990.00,2672.82
+7606,12-11-11,22.54133377,229,9,202.8720039,"Contoso Projector 480p M480 Silver",Contoso,Delta,2061.00,1858.13
+422,3/25/2014,70.38963093,229,12,844.6755712,"Contoso Projector 480p M480 Silver",Contoso,Katsina,2748.00,1903.32
+1217,10-01-12,197.6158324,229,10,1976.158324,"Contoso Projector 480p M480 Silver",Contoso,Benue,2290.00,313.84
+907,11/26/2012,131.0998737,499,13,1704.298358,"Contoso Projector 480p M481 Silver",Contoso,Oyo,6487.00,4782.70
+1069,05-02-13,331.1775292,499,12,3974.13035,"Contoso Projector 480p M481 Silver",Contoso,Ogun,5988.00,2013.87
+1422,8/13/2014,252.2982714,299,9,2270.684442,"Contoso Screen 113in M251 Silver",Contoso,Ekiti,2691.00,420.32
+2228,12/18/2011,8.399853846,21.57,4,33.59941538,"Contoso Screen 106in M060 Silver",Contoso,Lagos,86.28,52.68
+1452,11-05-13,121.5484965,190,13,1580.130454,"Contoso Screen 100in E010 Silver",Contoso,Jigawa,2470.00,889.87
+3431,12/19/2012,102.9558789,190,26,2676.852851,"Contoso Screen 100in E010 Silver",Contoso,Sokoto,4940.00,2263.15
+856,7/28/2014,33.02601964,139,24,792.6244713,"Contoso Screen 85in E085 Silver",Contoso,Bayelsa,3336.00,2543.38
+3167,5/18/2013,117.0437909,139,20,2340.875818,"Contoso Screen 85in E085 Silver",Contoso,Kaduna,2780.00,439.12
+215,11/16/2014,589.8661358,2295,6,3539.196815,"WWI Projector 1080p LCD86 Black","Wide World Importers",Abia,13770.00,10230.80
+1021,03-11-14,714.6564063,2295,18,12863.81531,"WWI Projector 1080p LCD86 Black","Wide World Importers",Lagos,41310.00,28446.18
+1966,03-10-12,590.1730454,699,10,5901.730454,"WWI Projector 720p LCD56 Black","Wide World Importers",Yobe,6990.00,1088.27
+2701,02-03-12,52.46029701,699,9,472.1426731,"WWI Projector 720p LCD56 Black","Wide World Importers",Nasarawa,6291.00,5818.86
+2086,10/26/2014,795.2568568,2499,6,4771.541141,"WWI Projector 1080p DLP86 Silver","Wide World Importers",Ondo,14994.00,10222.46
+557,07-03-13,599.981041,699,12,7199.772492,"WWI Projector 720p LCD56 Silver","Wide World Importers","Zamfara ",8388.00,1188.23
+743,7/28/2012,272.3494988,699,12,3268.193986,"WWI Projector 720p LCD56 Silver","Wide World Importers",Imo,8388.00,5119.81
+1176,12-04-12,614.0467168,699,8,4912.373734,"WWI Projector 720p LCD56 Silver","Wide World Importers",Ondo,5592.00,679.63
+2453,11/15/2012,440.0787496,699,39,17163.07123,"WWI Projector 720p LCD56 Silver","Wide World Importers",Osun,27261.00,10097.93
+7701,04-02-13,276.8965039,499,24,6645.516093,"WWI Projector 480p DLP12 Silver","Wide World Importers",Kano,11976.00,5330.48
+2172,5/25/2014,143.8282922,499,10,1438.282922,"WWI Projector 480p DLP12 Silver","Wide World Importers",Nasarawa,4990.00,3551.72
+7567,7/31/2013,79.77172189,299,9,717.945497,"WWI Screen 113in M1610 Silver","Wide World Importers",Kaduna,2691.00,1973.05
+7686,12-03-13,3.605740424,299,8,28.84592339,"WWI Screen 113in M1610 Silver","Wide World Importers",Ebonyi,2392.00,2363.15
+2191,01-03-14,14.89692677,299,9,134.0723409,"WWI Screen 113in M1610 Silver","Wide World Importers",Nasarawa,2691.00,2556.93
+1926,9/26/2012,79.86418738,159,10,798.6418738,"Proseware Photo Ink Jet Printer M100 Black",Proseware,Kogi,1590.00,791.36
+7631,11/14/2013,117.0129567,169,13,1521.168437,"Proseware Ink Jet All in one M300 Black",Proseware,Ogun,2197.00,675.83
+217,12-01-12,46.20970919,169,8,369.6776736,"Proseware Ink Jet All in one M300 Black",Proseware,Jigawa,1352.00,982.32
+450,9/25/2012,154.5077879,169,10,1545.077879,"Proseware Ink Jet All in one M300 Black",Proseware,Kaduna,1690.00,144.92
+2287,4/21/2012,152.2511797,169,10,1522.511797,"Proseware Ink Jet All in one M300 Black",Proseware,Sokoto,1690.00,167.49
+2607,10-07-13,2.615881527,169,8,20.92705222,"Proseware Ink Jet All in one M300 Black",Proseware,Anambra,1352.00,1331.07
+1953,1/31/2014,19.92077684,79,24,478.0986442,"Proseware Laser Jet Printer E100 Black",Proseware,Delta,1896.00,1417.90
+3221,6/24/2014,6.355434523,79,24,152.5304285,"Proseware Laser Jet Printer E100 Black",Proseware,Jigawa,1896.00,1743.47
+2451,4/18/2012,53.49411775,79,12,641.929413,"Proseware Fax Machine E100 Black",Proseware,Oyo,948.00,306.07
+1023,12/28/2011,56.70076535,91,8,453.6061228,"Proseware Laser Fax Printer E100 Black",Proseware,Delta,728.00,274.39
+2349,02-02-12,31.57969164,91,4,126.3187666,"Proseware Laser Fax Printer E100 Black",Proseware,Adamawa,364.00,237.68
+75,5/27/2014,63.01265703,78,20,1260.253141,"Proseware Ink Jet Fax Machine E100 Black",Proseware,Jigawa,1560.00,299.75
+765,12-01-12,28.0785841,78,18,505.4145137,"Proseware Ink Jet Fax Machine E100 Black",Proseware,Oyo,1404.00,898.59
+1457,1/31/2012,64.17852975,78,6,385.0711785,"Proseware Ink Jet Fax Machine E100 Black",Proseware,"Zamfara ",468.00,82.93
+1326,11-12-13,78.51119626,116,13,1020.645551,"Proseware Mobile Receipt and Document Scanner M200 Black",Proseware,Anambra,1508.00,487.35
+2412,4/26/2013,72.49815766,116,12,869.9778919,"Proseware Mobile Receipt and Document Scanner M200 Black",Proseware,"Zamfara ",1392.00,522.02
+2490,5/26/2013,61.38960013,116,10,613.8960013,"Proseware Mobile Receipt and Document Scanner M200 Black",Proseware,"Zamfara ",1160.00,546.10
+2935,02-06-14,56.77050669,116,18,1021.86912,"Proseware Mobile Receipt and Document Scanner M200 Black",Proseware,Delta,2088.00,1066.13
+3324,11-01-13,43.79632211,116,13,569.3521874,"Proseware Mobile Receipt and Document Scanner M200 Black",Proseware,Ekiti,1508.00,938.65
+2772,01-06-12,122.7485004,136,9,1104.736504,"Proseware All-In-One Photo Printer M200 Black",Proseware,Oyo,1224.00,119.26
+2916,02-07-13,113.4819997,136,9,1021.337997,"Proseware All-In-One Photo Printer M200 Black",Proseware,Kogi,1224.00,202.66
+2389,8/26/2014,107.4056335,129,36,3866.602808,"Proseware Ink Jet Wireless All-In-One Printer M400 Black",Proseware,Bauchi,4644.00,777.40
+185,10-08-12,130.8068161,209,8,1046.454529,"Proseware High Speed Laser M2000 Black",Proseware,Jigawa,1672.00,625.55
+2166,3/14/2012,0.008362154,209,9,0.075259384,"Proseware High Speed Laser M2000 Black",Proseware,Kaduna,1881.00,1880.92
+2177,3/31/2012,124.7460361,209,9,1122.714325,"Proseware High Speed Laser M2000 Black",Proseware,Niger,1881.00,758.29
+2940,5/20/2014,136.0734691,209,12,1632.881629,"Proseware High Speed Laser M2000 Black",Proseware,Kwara,2508.00,875.12
+2286,3/13/2012,134.4015247,159,9,1209.613722,"Proseware Color Ink Jet Fax, Copier, Phone M250 Black",Proseware,Bauchi,1431.00,221.39
+2651,05-10-12,123.3779629,228,10,1233.779629,"Proseware Color Inkjet Fax with 5.8 GHz Cordless Handset X250 Black",Proseware,Oyo,2280.00,1046.22
+671,09-02-12,37.01811901,236,12,444.2174281,"Proseware Slim-Design Fax Machine with Answering System X180 Black",Proseware,Oyo,2832.00,2387.78
+1047,12-02-14,153.1437309,236,6,918.8623852,"Proseware Slim-Design Fax Machine with Answering System X180 Black",Proseware,Oyo,1416.00,497.14
+1378,7/16/2013,23.11466567,236,10,231.1466567,"Proseware Slim-Design Fax Machine with Answering System X180 Black",Proseware,Kaduna,2360.00,2128.85
+1618,6/28/2012,124.657057,248,12,1495.884684,"Proseware High-Performance Business-Class Laser Fax X200 Black",Proseware,Enugu,2976.00,1480.12
+7262,08-10-12,116.1224302,248,24,2786.938325,"Proseware High-Performance Business-Class Laser Fax X200 Black",Proseware,"Akwa Ibom",5952.00,3165.06
+2460,7/22/2012,2.81832482,248,9,25.36492338,"Proseware High-Performance Business-Class Laser Fax X200 Black",Proseware,Bayelsa,2232.00,2206.64
+717,08-12-14,73.87890252,229,10,738.7890252,"Proseware Professional Quality Plain-Paper Fax and Copier X100 Black",Proseware,"Akwa Ibom",2290.00,1551.21
+2960,1/22/2012,15.84874664,229,9,142.6387197,"Proseware Professional Quality Plain-Paper Fax and Copier X100 Black",Proseware,Adamawa,2061.00,1918.36
+138,02-12-12,16.37680532,163,9,147.3912479,"Proseware Office Jet All-in-One Printer M500 Black",Proseware,Kwara,1467.00,1319.61
+461,12/16/2011,104.9549357,163,9,944.5944214,"Proseware Office Jet All-in-One Printer M500 Black",Proseware,Borno,1467.00,522.41
+3008,4/25/2012,122.1118992,163,12,1465.34279,"Proseware Office Jet All-in-One Printer M500 Black",Proseware,Osun,1956.00,490.66
+216,09-12-12,27.27179377,190,10,272.7179377,"Proseware Office Jet Wireless All-in-One Inkjet Printer M600 Black",Proseware,Osun,1900.00,1627.28
+3018,3/17/2012,124.8533636,190,10,1248.533636,"Proseware Office Jet Wireless All-in-One Inkjet Printer M600 Black",Proseware,Katsina,1900.00,651.47
+2170,3/22/2014,173.4906838,199.9,10,1734.906838,"Proseware 23ppm Laser Printer with Wireless and Wired Network Interfaces M680 Black",Proseware,Gombe,1999.00,264.09
+1684,12-08-12,48.46561002,159,9,436.1904902,"Proseware Photo Inkjet Printer M100 Grey",Proseware,Lagos,1431.00,994.81
+3042,11-12-14,92.18054187,159,24,2212.333005,"Proseware Photo Inkjet Printer M100 Grey",Proseware,Osun,3816.00,1603.67
+7493,06-10-13,13.45853117,169,12,161.5023741,"Proseware Ink Jet All in one M300 Grey",Proseware,Ondo,2028.00,1866.50
+1384,4/13/2013,115.8159788,169,10,1158.159788,"Proseware Ink Jet All in one M300 Grey",Proseware,Yobe,1690.00,531.84
+2220,9/17/2014,108.598538,169,10,1085.98538,"Proseware Ink Jet All in one M300 Grey",Proseware,Kaduna,1690.00,604.01
+2873,04-07-12,84.61611217,169,10,846.1611217,"Proseware Ink Jet All in one M300 Grey",Proseware,Sokoto,1690.00,843.84
+2881,06-08-13,104.6046078,169,12,1255.255294,"Proseware Ink Jet All in one M300 Grey",Proseware,Adamawa,2028.00,772.74
+788,4/30/2012,14.49290809,79,5,72.46454044,"Proseware Fax Machine E100 Grey",Proseware,Kogi,395.00,322.54
+851,02-03-12,34.13419225,79,4,136.536769,"Proseware Fax Machine E100 Grey",Proseware,Gombe,316.00,179.46
+1765,10-08-13,0.646420447,79,13,8.403465812,"Proseware Fax Machine E100 Grey",Proseware,Jigawa,1027.00,1018.60
+2269,9/27/2012,69.43233822,79,5,347.1616911,"Proseware Fax Machine E100 Grey",Proseware,Plateau,395.00,47.84
+295,4/15/2012,26.29307554,78,12,315.5169064,"Proseware Ink Jet Fax Machine E100 Grey",Proseware,Adamawa,936.00,620.48
+3271,11/17/2014,30.43725365,78,26,791.3685948,"Proseware Ink Jet Fax Machine E100 Grey",Proseware,"Akwa Ibom",2028.00,1236.63
+3064,12/27/2013,58.19802463,116,9,523.7822217,"Proseware Mobile Receipt and Document Scanner M200 Grey",Proseware,Ebonyi,1044.00,520.22
+1710,5/25/2013,103.9759368,121,10,1039.759368,"Proseware Scan Jet Digital Flat Bed Scanner M300 Grey",Proseware,Osun,1210.00,170.24
+2590,9/15/2013,42.42649794,121,10,424.2649794,"Proseware Scan Jet Digital Flat Bed Scanner M300 Grey",Proseware,Osun,1210.00,785.74
+269,1/15/2013,30.70696192,136,9,276.3626573,"Proseware All-In-One Photo Printer M200 Grey",Proseware,Nasarawa,1224.00,947.64
+100,10-10-12,0.337960921,129,13,4.393491969,"Proseware Ink Jet Wireless All-In-One Printer M400 Grey",Proseware,Nasarawa,1677.00,1672.61
+2831,05-01-12,91.11640523,129,10,911.1640523,"Proseware Ink Jet Wireless All-In-One Printer M400 Grey",Proseware,Gombe,1290.00,378.84
+488,7/29/2014,30.69782193,160,12,368.3738632,"Proseware Ink Jet Instant PDF Sheet-Fed Scanner M300 Grey",Proseware,Ekiti,1920.00,1551.63
+3371,4/19/2012,50.25667709,160,10,502.5667709,"Proseware Ink Jet Instant PDF Sheet-Fed Scanner M300 Grey",Proseware,Imo,1600.00,1097.43
+2372,02-10-14,59.1586798,149,24,1419.808315,"Proseware Duplex Scanner M200 Grey",Proseware,Anambra,3576.00,2156.19
+2981,3/26/2012,66.80516954,159,10,668.0516954,"Proseware Color Ink Jet Fax, Copier, Phone M250 Grey",Proseware,"Zamfara ",1590.00,921.95
+249,12-10-11,9.00423054,228,8,72.03384432,"Proseware Color Ink Jet Fax with 5.8 GHz Cordless Handset X250 Grey",Proseware,Abia,1824.00,1751.97
+1550,01-05-12,62.31209,228,9,560.80881,"Proseware Color Ink Jet Fax with 5.8 GHz Cordless Handset X250 Grey",Proseware,FCT,2052.00,1491.19
+1005,2/13/2014,30.48517885,248,6,182.9110731,"Proseware High-Performance Business-Class Laser Fax X200 Grey",Proseware,"Zamfara ",1488.00,1305.09
+1774,8/16/2012,35.5054452,248,12,426.0653424,"Proseware High-Performance Business-Class Laser Fax X200 Grey",Proseware,Kano,2976.00,2549.93
+1849,5/18/2012,126.3313066,248,10,1263.313066,"Proseware High-Performance Business-Class Laser Fax X200 Grey",Proseware,Oyo,2480.00,1216.69
+2521,3/19/2012,76.12970799,248,12,913.5564959,"Proseware High-Performance Business-Class Laser Fax X200 Grey",Proseware,Enugu,2976.00,2062.44
+7718,8/25/2013,89.75407839,102,9,807.7867055,"Proseware Photo Ink Jet Printer E290 Grey",Proseware,Niger,918.00,110.21
+564,03-04-13,58.61589708,102,27,1582.629221,"Proseware Photo Ink Jet Printer E290 Grey",Proseware,Edo,2754.00,1171.37
+7725,5/29/2013,78.9065319,163,10,789.065319,"Proseware Office Jet All-in-One Printer M500 Grey",Proseware,Ondo,1630.00,840.93
+938,7/13/2014,118.0570073,190,9,1062.513066,"Proseware Office Jet Wireless All-in-One Inkjet Printer M600 Grey",Proseware,Oyo,1710.00,647.49
+944,06-10-13,16.10535257,190,12,193.2642309,"Proseware Office Jet Wireless All-in-One Inkjet Printer M600 Grey",Proseware,"Zamfara ",2280.00,2086.74
+1609,3/31/2012,42.95940649,190,10,429.5940649,"Proseware Office Jet Wireless All-in-One Inkjet Printer M600 Grey",Proseware,Imo,1900.00,1470.41
+2572,6/13/2012,36.07402215,190,12,432.8882659,"Proseware Office Jet Wireless All-in-One Inkjet Printer M600 Grey",Proseware,Ogun,2280.00,1847.11
+7500,8/14/2014,12.75692395,188,12,153.0830874,"Proseware Wireless Photo All-in-One Printer M390 Grey",Proseware,"Cross River",2256.00,2102.92
+652,8/18/2012,65.90994074,188,18,1186.378933,"Proseware Wireless Photo All-in-One Printer M390 Grey",Proseware,Kebbi,3384.00,2197.62
+910,07-08-14,98.65289812,188,10,986.5289812,"Proseware Wireless Photo All-in-One Printer M390 Grey",Proseware,Kaduna,1880.00,893.47
+2234,2/20/2012,24.10681118,188,12,289.2817341,"Proseware Wireless Photo All-in-One Printer M390 Grey",Proseware,"Zamfara ",2256.00,1966.72
+2296,03-02-14,58.92133083,188,12,707.05597,"Proseware Wireless Photo All-in-One Printer M390 Grey",Proseware,Anambra,2256.00,1548.94
+2528,05-10-14,74.20825185,188,10,742.0825185,"Proseware Wireless Photo All-in-One Printer M390 Grey",Proseware,Kaduna,1880.00,1137.92
+2988,10-02-12,152.8568288,188,10,1528.568288,"Proseware Wireless Photo All-in-One Printer M390 Grey",Proseware,Ekiti,1880.00,351.43
+7670,4/15/2013,75.33564621,79,10,753.3564621,"Proseware Laser Jet Printer E100 White",Proseware,Ebonyi,790.00,36.64
+364,07-06-13,50.16198,79,9,451.45782,"Proseware Laser Jet Printer E100 White",Proseware,FCT,711.00,259.54
+1763,5/15/2012,23.18343458,79,6,139.1006075,"Proseware Laser Jet Printer E100 White",Proseware,Sokoto,474.00,334.90
+23,1/22/2014,1.317254574,209,9,11.85529117,"Proseware Laser Jet Color Printer X300 White",Proseware,Edo,1881.00,1869.14
+1121,12-02-13,123.7524729,209,13,1608.782148,"Proseware Laser Jet Color Printer X300 White",Proseware,Benue,2717.00,1108.22
+1421,5/18/2014,103.0719676,209,12,1236.863611,"Proseware Laser Jet Color Printer X300 White",Proseware,Kebbi,2508.00,1271.14
+1634,4/23/2014,77.22723831,87,60,4633.634299,"Proseware Fax Phone E100 White",Proseware,Ebonyi,5220.00,586.37
+50,06-02-12,77.24411514,79,6,463.4646909,"Proseware Fax Machine E100 White",Proseware,Jigawa,474.00,10.54
+431,10/17/2012,48.39789736,79,4,193.5915894,"Proseware Fax Machine E100 White",Proseware,Edo,316.00,122.41
+1311,07-03-14,15.14619529,79,24,363.5086869,"Proseware Fax Machine E100 White",Proseware,Bauchi,1896.00,1532.49
+3411,1/28/2013,54.01468584,79,9,486.1321726,"Proseware Fax Machine E100 White",Proseware,Bayelsa,711.00,224.87
+2048,6/20/2013,78.94805572,78,10,789.4805572,"Proseware Ink Jet Fax Machine E100 White",Proseware,Ebonyi,780.00,-9.48
+2376,6/24/2014,57.52038078,78,24,1380.489139,"Proseware Ink Jet Fax Machine E100 White",Proseware,Kano,1872.00,491.51
+7241,06-06-13,56.3236651,116,12,675.8839812,"Proseware Mobile Receipt and Document Scanner M200 White",Proseware,Imo,1392.00,716.12
+53,3/23/2012,96.40055223,116,10,964.0055223,"Proseware Mobile Receipt and Document Scanner M200 White",Proseware,Bauchi,1160.00,195.99
+2554,2/20/2012,28.59395817,116,9,257.3456235,"Proseware Mobile Receipt and Document Scanner M200 White",Proseware,Yobe,1044.00,786.65
+418,1/31/2012,94.63717828,121,9,851.7346045,"Proseware Scan Jet Digital Flat Bed Scanner M300 White",Proseware,Delta,1089.00,237.27
+795,5/14/2012,94.65477785,121,10,946.5477785,"Proseware Scan Jet Digital Flat Bed Scanner M300 White",Proseware,Enugu,1210.00,263.45
+2815,5/26/2012,47.56914455,121,20,951.382891,"Proseware Scan Jet Digital Flat Bed Scanner M300 White",Proseware,Anambra,2420.00,1468.62
+178,4/26/2012,47.64843,136,10,476.4843,"Proseware All-In-One Photo Printer M200 White",Proseware,Nasarawa,1360.00,883.52
+2258,01-07-12,44.30359025,136,9,398.7323122,"Proseware All-In-One Photo Printer M200 White",Proseware,Anambra,1224.00,825.27
+3278,2/27/2014,79.8875143,136,12,958.6501716,"Proseware All-In-One Photo Printer M200 White",Proseware,Bayelsa,1632.00,673.35
+7259,3/27/2012,62.31875786,129,10,623.1875786,"Proseware Ink Jet Wireless All-In-One Printer M400 White",Proseware,Ogun,1290.00,666.81
+7609,03-08-12,12.05081562,129,9,108.4573406,"Proseware Ink Jet Wireless All-In-One Printer M400 White",Proseware,Jigawa,1161.00,1052.54
+2806,2/15/2013,101.688403,129,9,915.1956269,"Proseware Ink Jet Wireless All-In-One Printer M400 White",Proseware,"Akwa Ibom",1161.00,245.80
+2253,3/21/2014,37.17290689,158,10,371.7290689,"Proseware Desk Jet All-in-One Printer, Scanner, Copier M350 White",Proseware,Ondo,1580.00,1208.27
+2169,5/24/2013,18.90985704,255,10,189.0985704,"Proseware Duplex Scanner M200 White",Proseware,Borno,2550.00,2360.90
+854,10/19/2012,32.26643005,209,24,774.3943213,"Proseware High Speed Laser M2000 White",Proseware,Yobe,5016.00,4241.61
+1230,6/25/2014,114.6412515,209,12,1375.695019,"Proseware High Speed Laser M2000 White",Proseware,Ogun,2508.00,1132.30
+2273,04-01-12,133.8878714,209,10,1338.878714,"Proseware High Speed Laser M2000 White",Proseware,FCT,2090.00,751.12
+1477,6/23/2014,55.40344309,118,20,1108.068862,"Proseware Laser Fax Printer M250 White",Proseware,Kaduna,2360.00,1251.93
+599,8/15/2013,89.24046205,159,12,1070.885545,"Proseware Color Ink jet Fax, Copier, Phone M250 White",Proseware,Rivers,1908.00,837.11
+2472,9/25/2012,22.0801117,159,8,176.6408936,"Proseware Color Ink jet Fax, Copier, Phone M250 White",Proseware,Kogi,1272.00,1095.36
+7663,10/13/2012,67.86761752,228,26,1764.558055,"Proseware Color Ink Jet Fax with 5.8 GHz Cordless Handset X250 White",Proseware,Benue,5928.00,4163.44
+566,05-11-12,67.40165996,102,5,337.0082998,"Proseware Photo Ink jet Printer E290 White",Proseware,Gombe,510.00,172.99
+1768,7/15/2012,5.721207343,102,6,34.32724406,"Proseware Photo Ink jet Printer E290 White",Proseware,Sokoto,612.00,577.67
+2593,05-10-12,16.21948207,102,6,97.31689241,"Proseware Photo Ink jet Printer E290 White",Proseware,Delta,612.00,514.68
+1126,5/19/2013,126.5117151,163,10,1265.117151,"Proseware Office Jet All-in-One Printer M500 White",Proseware,Osun,1630.00,364.88
+2889,3/24/2013,77.37824502,190,10,773.7824502,"Proseware Office Jet Wireless All-in-One Inkjet Printer M600 White",Proseware,Abia,1900.00,1126.22
+1994,3/23/2014,29.24311875,196,10,292.4311875,"Proseware 23ppm Laser Printer with Wireless and Wired Network Interfaces M680 White",Proseware,"Cross River",1960.00,1667.57
+2926,9/15/2013,151.0149415,196,16,2416.239063,"Proseware 23ppm Laser Printer with Wireless and Wired Network Interfaces M680 White",Proseware,Delta,3136.00,719.76
+638,10/13/2014,52.37311285,121,13,680.8504671,"Proseware Scan Jet Digital Flat Bed Scanner M300 Green",Proseware,Kogi,1573.00,892.15
+2005,03-11-12,82.44560019,121,12,989.3472022,"Proseware Scan Jet Digital Flat Bed Scanner M300 Green",Proseware,Gombe,1452.00,462.65
+7689,01-12-14,95.77441775,136,9,861.9697597,"Proseware All-In-One Photo Printer M200 Green",Proseware,Benue,1224.00,362.03
+1698,4/23/2013,76.88556576,136,10,768.8556576,"Proseware All-In-One Photo Printer M200 Green",Proseware,"Zamfara ",1360.00,591.14
+2211,7/14/2012,100.4201782,136,12,1205.042139,"Proseware All-In-One Photo Printer M200 Green",Proseware,Nasarawa,1632.00,426.96
+2260,06-01-13,123.7033366,136,10,1237.033366,"Proseware All-In-One Photo Printer M200 Green",Proseware,Rivers,1360.00,122.97
+735,5/27/2014,4.814593377,129,10,48.14593377,"Proseware Ink Jet Wireless All-In-One Printer M400 Green",Proseware,Yobe,1290.00,1241.85
+1261,10/14/2012,110.5536466,129,39,4311.592216,"Proseware Ink Jet Wireless All-In-One Printer M400 Green",Proseware,Benue,5031.00,719.41
+3061,03-06-14,1.446509035,129,10,14.46509035,"Proseware Ink Jet Wireless All-In-One Printer M400 Green",Proseware,Imo,1290.00,1275.53
+2195,12/13/2013,59.66167661,77.68,18,1073.910179,"Proseware Ink Jet Instant PDF Sheet-Fed Scanner M300 Green",Proseware,Abia,1398.24,324.33
+7505,7/13/2013,143.6683945,158,18,2586.031101,"Proseware Desk Jet All-in-One Printer, Scanner, Copier M350 Green",Proseware,Kogi,2844.00,257.97
+2752,12/28/2011,47.80870339,158,26,1243.026288,"Proseware Desk Jet All-in-One Printer, Scanner, Copier M350 Green",Proseware,Kwara,4108.00,2864.97
+3038,11/14/2013,50.13401705,158,13,651.7422216,"Proseware Desk Jet All-in-One Printer, Scanner, Copier M350 Green",Proseware,Edo,2054.00,1402.26
+3034,11-11-13,101.3180682,118,8,810.5445456,"Proseware Laser Fax Printer M250 Green",Proseware,Plateau,944.00,133.46
+807,3/23/2012,139.6968868,159,10,1396.968868,"Proseware Color Ink Jet Fax, Copier, Phone M250 Green",Proseware,Kano,1590.00,193.03
+2392,1/28/2012,74.74768357,159,9,672.7291521,"Proseware Color Ink Jet Fax, Copier, Phone M250 Green",Proseware,Abia,1431.00,758.27
+806,2/20/2012,9.524658168,12.95,4,38.09863267,"Contoso Rechargeable Battery E100 Black",Contoso,Anambra,51.80,13.70
+2209,04-07-13,4.916847332,12.95,10,49.16847332,"Contoso Rechargeable Battery E100 Black",Contoso,FCT,129.50,80.33
+311,3/29/2014,27.84834236,39.9,20,556.9668471,"Contoso Dual USB Power Adapter - power adapter E300 Black",Contoso,Delta,798.00,241.03
+225,3/20/2012,16.2403864,19.95,27,438.4904328,"Contoso Car power adapter M90 Black",Contoso,"Cross River",538.65,100.16
+3320,05-02-12,14.65811953,16.5,10,146.5811953,"Contoso Notebook Peripheral Kit M69 Black",Contoso,Katsina,165.00,18.42
+2763,12-08-13,1.977574873,12.95,16,31.64119796,"Contoso Mouse Lock Bundle E200 Black",Contoso,Kano,207.20,175.56
+1872,09-11-12,12.08130771,13.5,5,60.40653857,"Contoso Education Supplies Bundle E200 Black",Contoso,Ebonyi,67.50,7.09
+2129,7/22/2012,5.990874743,13.5,5,29.95437371,"Contoso Education Supplies Bundle E200 Black",Contoso,"Cross River",67.50,37.55
+2716,06-12-12,5.104390057,13.5,6,30.62634034,"Contoso Education Supplies Bundle E200 Black",Contoso,Nasarawa,81.00,50.37
+2328,08-02-14,5.575956105,9.5,12,66.91147326,"Contoso Education Essentials Bundle M300 Black",Contoso,Kano,114.00,47.09
+1941,12-10-11,11.44333748,11.5,4,45.77334993,"Contoso Desktop Alternative Bundle E200 Black",Contoso,"Zamfara ",46.00,0.23
+2796,4/19/2014,2.659367306,11.5,20,53.18734611,"Contoso Desktop Alternative Bundle E200 Black",Contoso,Lagos,230.00,176.81
+3124,4/18/2014,1.923659218,11.5,60,115.4195531,"Contoso Desktop Alternative Bundle E200 Black",Contoso,Kaduna,690.00,574.58
+245,4/25/2013,1.068909443,9.5,10,10.68909443,"Contoso Power Inverter - DC to AC power inverter E900 Black",Contoso,Delta,95.00,84.31
+813,01-08-12,7.274408075,9.5,4,29.0976323,"Contoso Power Inverter - DC to AC power inverter E900 Black",Contoso,Borno,38.00,8.90
+2402,11-09-12,0.196005996,9.5,6,1.176035979,"Contoso Power Inverter - DC to AC power inverter E900 Black",Contoso,Oyo,57.00,55.82
+2877,8/30/2013,2.977637522,9.5,10,29.77637522,"Contoso Power Inverter - DC to AC power inverter E900 Black",Contoso,Osun,95.00,65.22
+3129,5/23/2012,1.391947569,9.5,6,8.351685414,"Contoso Power Inverter - DC to AC power inverter E900 Black",Contoso,Delta,57.00,48.65
+441,12/27/2012,4.848392519,11.5,18,87.27106535,"Contoso Smart Battery M901 Black",Contoso,Borno,207.00,119.73
+2474,11-03-13,1.60585176,11.5,13,20.87607289,"Contoso Smart Battery M901 Black",Contoso,Lagos,149.50,128.62
+741,1/25/2013,23.63837923,29.9,18,425.4908261,"Contoso Laptop Cooling Hub notebook fan with 4 ports USB hub E80 Black",Contoso,Nasarawa,538.20,112.71
+344,07-05-12,23.9230178,25.5,5,119.615089,"Contoso Home/Office Laptop Power Adapter E300 Black",Contoso,Bauchi,127.50,7.88
+1575,10/13/2012,7.403140104,25.5,6,44.41884062,"Contoso Home/Office Laptop Power Adapter E300 Black",Contoso,Ebonyi,153.00,108.58
+121,3/30/2013,11.3873927,27.9,10,113.873927,"Contoso Enhanced Capacity Battery M800 Black",Contoso,Imo,279.00,165.13
+1594,5/16/2012,23.65993645,27.9,10,236.5993645,"Contoso Enhanced Capacity Battery M800 Black",Contoso,Bayelsa,279.00,42.40
+2438,5/17/2013,72.3453135,95.95,10,723.453135,"Contoso Connectivity Starter Kit Smart Buy M680 Black",Contoso,Enugu,959.50,236.05
+1837,12/15/2013,6.259795711,11.9,18,112.6763228,"Contoso 90W AC/DC Power Adapter E300 Black",Contoso,Lagos,214.20,101.52
+193,11/20/2013,1.562768954,16.9,13,20.3159964,"Contoso USB Data Link-direct connect adapter E600 Black",Contoso,Plateau,219.70,199.38
+1474,9/25/2012,1.955167551,16.9,4,7.820670203,"Contoso USB Data Link-direct connect adapter E600 Black",Contoso,Plateau,67.60,59.78
+3375,7/14/2014,5.705214351,16.9,18,102.6938583,"Contoso USB Data Link-direct connect adapter E600 Black",Contoso,Adamawa,304.20,201.51
+187,11-01-14,8.522229135,33.9,6,51.13337481,"Contoso Primary Extended Capacity Battery Pack - notebook battery X100 Black",Contoso,Oyo,203.40,152.27
+1614,10/14/2013,16.06945309,39.9,13,208.9028902,"Contoso Leather Case - case for digital photo camera X20 Black",Contoso,Ogun,518.70,309.80
+3145,8/20/2014,11.71477149,39.9,6,70.28862896,"Contoso Leather Case - case for digital photo camera X20 Black",Contoso,Niger,239.40,169.11
+3307,03-12-14,18.68615707,39.9,10,186.8615707,"Contoso Leather Case - case for digital photo camera X20 Black",Contoso,Kaduna,399.00,212.14
+7377,12-10-11,13.54649068,19.9,4,54.18596272,"Contoso Battery charger - bike E200 Black",Contoso,Ondo,79.60,25.41
+2,1/17/2012,11.82527111,19.9,4,47.30108443,"Contoso Battery charger - bike E200 Black",Contoso,Jigawa,79.60,32.30
+804,3/19/2014,9.950668713,19.9,18,179.1120368,"Contoso Battery charger - bike E200 Black",Contoso,Kwara,358.20,179.09
+3109,8/24/2013,10.31982725,19.9,12,123.8379271,"Contoso Battery charger - bike E200 Black",Contoso,Kogi,238.80,114.96
+1156,6/19/2013,7.973017107,15.5,12,95.67620529,"Contoso USB Optical Mouse E200 Black",Contoso,FCT,186.00,90.32
+1447,5/31/2012,9.505658846,15.5,5,47.52829423,"Contoso USB Optical Mouse E200 Black",Contoso,Ebonyi,77.50,29.97
+1385,08-03-13,12.95927298,22.9,10,129.5927298,"Contoso ADSL Modem Splitter/Filter X 2 E200 Black",Contoso,Oyo,229.00,99.41
+7528,2/23/2013,9.34956452,15.9,9,84.14608068,"Contoso USB Wave Multi-media Keyboard E280 Black",Contoso,Osun,143.10,58.95
+2079,2/16/2012,9.124335543,15.9,4,36.49734217,"Contoso USB Wave Multi-media Keyboard E280 Black",Contoso,Lagos,63.60,27.10
+2152,4/23/2013,0.294650017,15.9,10,2.94650017,"Contoso USB Wave Multi-media Keyboard E280 Black",Contoso,Bayelsa,159.00,156.05
+3209,1/18/2012,11.77513048,15.9,4,47.10052193,"Contoso USB Wave Multi-media Keyboard E280 Black",Contoso,Kwara,63.60,16.50
+1561,12/28/2011,0.190245181,11.9,6,1.141471085,"Contoso Cables To Go USB 2.0 Hard Drive Enclosure E920 Black",Contoso,Kebbi,71.40,70.26
+3257,10/24/2014,3.263403133,15.9,26,84.84848145,"Contoso USB Wave Multi-media Keyboard E280 Blue",Contoso,Niger,413.40,328.55
+2019,11-10-13,5.264407631,11.5,13,68.4372992,"Contoso Smart Battery M901 Blue",Contoso,Bayelsa,149.50,81.06
+7276,10/28/2013,1.633226477,13.9,13,21.2319442,"Contoso Reserve Pen -Tablet Pen E200 Blue",Contoso,Gombe,180.70,159.47
+7673,5/17/2014,2.54708656,13.9,20,50.94173121,"Contoso Reserve Pen -Tablet Pen E200 Blue",Contoso,Ondo,278.00,227.06
+1161,4/27/2013,5.576924033,13.9,10,55.76924033,"Contoso Reserve Pen -Tablet Pen E200 Blue",Contoso,Ondo,139.00,83.23
+1171,09-01-13,11.96091056,13.9,12,143.5309267,"Contoso Reserve Pen -Tablet Pen E200 Blue",Contoso,Sokoto,166.80,23.27
+3238,07-01-12,12.27906402,13.9,6,73.67438414,"Contoso Reserve Pen -Tablet Pen E200 Blue",Contoso,Kano,83.40,9.73
+1909,4/26/2013,0.082987297,12.95,10,0.829872971,"Contoso Rechargeable Battery E100 White",Contoso,"Zamfara ",129.50,128.67
+2794,3/23/2012,10.53154887,12.95,4,42.12619548,"Contoso Rechargeable Battery E100 White",Contoso,Sokoto,51.80,9.67
+7546,11/26/2013,32.93726526,39.9,13,428.1844483,"Contoso Dual USB Power Adapter - power adapter E300 White",Contoso,FCT,518.70,90.52
+1055,10/16/2012,3.086450544,39.9,4,12.34580218,"Contoso Dual USB Power Adapter - power adapter E300 White",Contoso,Anambra,159.60,147.25
+2504,07-06-12,22.52131407,39.9,5,112.6065704,"Contoso Dual USB Power Adapter - power adapter E300 White",Contoso,Anambra,199.50,86.89
+1676,7/24/2013,14.46910766,19.95,12,173.629292,"Contoso Car power adapter M90 White",Contoso,Kogi,239.40,65.77
+2131,12-01-12,6.361763963,19.95,13,82.70293151,"Contoso Car power adapter M90 White",Contoso,Sokoto,259.35,176.65
+2596,05-12-14,0.936027057,19.95,10,9.36027057,"Contoso Car power adapter M90 White",Contoso,Gombe,199.50,190.14
+3205,1/18/2012,6.159109161,19.95,9,55.43198244,"Contoso Car power adapter M90 White",Contoso,"Cross River",179.55,124.12
+7347,5/24/2012,14.21643525,16.5,10,142.1643525,"Contoso Notebook Peripheral Kit M69 White",Contoso,Gombe,165.00,22.84
+809,07-11-13,8.791374018,16.5,12,105.4964882,"Contoso Notebook Peripheral Kit M69 White",Contoso,Rivers,198.00,92.50
+1386,08-07-14,2.34832137,16.5,12,28.17985644,"Contoso Notebook Peripheral Kit M69 White",Contoso,Kaduna,198.00,169.82
+7662,06-12-12,8.599049632,13.5,6,51.59429779,"Contoso Education Supplies Bundle E200 White",Contoso,"Zamfara ",81.00,29.41
+974,03-03-14,0.069726245,16.5,9,0.627536209,"Contoso Laptop Starter Bundle M200 White",Contoso,Ekiti,148.50,147.87
+191,3/26/2014,5.298799609,9.5,12,63.58559531,"Contoso Education Essentials Bundle M300 White",Contoso,Taraba,114.00,50.41
+427,9/21/2014,3.211631019,9.5,20,64.23262038,"Contoso Education Essentials Bundle M300 White",Contoso,Anambra,190.00,125.77
+2316,3/21/2014,7.368711199,9.5,9,66.31840079,"Contoso Education Essentials Bundle M300 White",Contoso,FCT,85.50,19.18
+1375,12-02-12,6.613064825,11.5,6,39.67838895,"Contoso Desktop Alternative Bundle E200 White",Contoso,Jigawa,69.00,29.32
+2888,8/27/2012,2.916458737,11.5,36,104.9925145,"Contoso Smart Battery M901 White",Contoso,Taraba,414.00,309.01
+7438,8/18/2013,26.7954651,29.9,10,267.954651,"Contoso Laptop Cooling Hub notebook fan with 4 ports USB hub E80 White",Contoso,Osun,299.00,31.05
+363,10-10-12,5.051570568,25.5,6,30.30942341,"Contoso Home/Office Laptop Power Adapter E300 White",Contoso,Osun,153.00,122.69
+1044,03-07-13,25.63376946,25.5,10,256.3376946,"Contoso Home/Office Laptop Power Adapter E300 White",Contoso,Borno,255.00,-1.34
+1688,11-11-12,26.36924611,29.9,8,210.9539688,"Contoso USB 2.0 Dock Station docking station M800 White",Contoso,"Cross River",239.20,28.25
+7643,1/17/2013,20.26663321,27.9,9,182.3996988,"Contoso Enhanced Capacity Battery M800 White",Contoso,Anambra,251.10,68.70
+560,9/26/2012,23.4592413,27.9,10,234.592413,"Contoso Enhanced Capacity Battery M800 White",Contoso,Edo,279.00,44.41
+1999,6/19/2012,21.39494405,27.9,12,256.7393286,"Contoso Enhanced Capacity Battery M800 White",Contoso,Imo,334.80,78.06
+2062,04-03-12,1.974927548,27.9,10,19.74927548,"Contoso Enhanced Capacity Battery M800 White",Contoso,"Akwa Ibom",279.00,259.25
+3035,3/28/2012,12.78530586,27.9,12,153.4236703,"Contoso Enhanced Capacity Battery M800 White",Contoso,Kogi,334.80,181.38
+1556,11-07-12,23.85869765,27.9,8,190.8695812,"Contoso Connectivity Starter Kit Smart Buy M680 White",Contoso,Kebbi,223.20,32.33
+3340,7/28/2013,5.821983413,27.9,12,69.86380095,"Contoso Connectivity Starter Kit Smart Buy M680 White",Contoso,Imo,334.80,264.94
+2170,3/22/2014,173.4906838,199.9,10,1734.906838,"Contoso 90W AC/DC Power Adapter E300 White",Contoso,Gombe,1999.00,264.09
+3366,01-04-12,6.768142018,16.9,4,27.07256807,"Contoso USB Data Link - direct connect adapter E600 White",Contoso,Kano,67.60,40.53
+509,8/16/2012,21.42874945,23.9,24,514.2899867,"Contoso Digital camera accessory kit M200 White",Contoso,Imo,573.60,59.31
+798,5/29/2013,5.981692953,23.9,10,59.81692953,"Contoso Digital camera accessory kit M200 White",Contoso,"Zamfara ",239.00,179.18
+2939,09-11-12,20.0959013,29.9,8,160.7672104,"Contoso USB 2.0 Dock Station docking station M800 Grey",Contoso,Lagos,239.20,78.43
+2308,4/23/2012,20.34131286,27.9,10,203.4131286,"Contoso Enhanced Capacity Battery M800 Grey",Contoso,Rivers,279.00,75.59
+33,12/30/2013,5.233336358,11.9,18,94.20005444,"Contoso 90W AC/DC Power Adapter E300 Grey",Contoso,Rivers,214.20,120.00
