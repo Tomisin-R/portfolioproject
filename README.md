@@ -18,6 +18,24 @@ The goal of this project is to analyze and visualize product sales performance a
 	•	SQL: For cleaning, transforming, and aggregating the data
  
 	•	Microsoft Excel: As the source dataset
+ ## Key visuals & features
+
+ 	•       Bar charts and maps showing brand performance by state
+  
+	•	Slicers for dynamic filtering by brand or state
+ 
+	•	KPI cards for quick insights into total sales, top brands, and top-performing states
+ 
+	•	SQL queries used to prepare and summarize the dataset
+ ## Files in Repository
+
+	•       SQL_Queries.sql: SQL scripts for data transformation and analysis
+ 
+ 	•       PowerBI_Report.pbix: Power BI dashboard file
+  
+	•	Sales_Data.xlsx: Raw dataset used for analysis
+	
+
  
 
  
