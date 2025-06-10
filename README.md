@@ -10,7 +10,7 @@ The goal of this project is to analyze and visualize product sales performance a
  
 	•	Regional sales trends and outliers
 
- ##Dataset used
+ #Dataset used
 
 - <a href="https://github.com/Tomisin-R/portfolioproject/blob/main/state%20breakdown.csv">Dataset</a>
  
