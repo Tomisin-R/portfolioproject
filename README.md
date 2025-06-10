@@ -9,6 +9,15 @@ The goal of this project is to analyze and visualize product sales performance a
 	•	Top-selling products across regions
  
 	•	Regional sales trends and outliers
-## Dataset Used
+## Dataset used
 - <a href="https://github.com/Tomisin-R/portfolioproject/blob/main/state%20breakdown.csv">Dataset</a>
+## Tools used
+
+	•       Power BI: For creating interactive dashboards and insightful visuals
+ 
+	•	SQL: For cleaning, transforming, and aggregating the data
+ 
+	•	Microsoft Excel: As the source dataset
+ 
+
  
